@@ -1,0 +1,27 @@
+body {
+    background-image: url(https://cdn.mos.cms.futurecdn.net/7SeS5Cp6WhAoADK4EJYpxX.jpg);
+    background-size: cover;
+}
+
+.btn-btn-info {
+    margin-left: 38%;
+    margin-top: 22%;
+    font-size: 35px;
+    background-color: rgba(230, 220, 197, 0.5);
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    width: 25%;
+    color: #76612F;
+    border: 3px solid #76612F;
+}
+
+.btn-info {
+    color: #76612F;
+    text-decoration: none;
+}
+
+.container-fluid {
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    background-color: rgba(230, 220, 197, 0.5);
+}

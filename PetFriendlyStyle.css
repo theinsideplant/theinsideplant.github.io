@@ -1,0 +1,32 @@
+.container-fluid {
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    background-color: rgba(230, 220, 197, 0.5);
+}
+
+body {
+    background-image: url(https://images.unsplash.com/photo-1607287337832-89ae00338522?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHBhbG0lMjB0cmVlcyUyMGJlYWNofGVufDB8fDB8fHww);
+    background-size: cover;
+}
+
+.AutumnFernLink {
+    max-width: fit-content;
+    font-size: 35px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    text-decoration-style: wavy;
+    color: rgb(41, 90, 41);
+    margin-left: 135px;
+}
+
+#AutumnFernCarousel {
+    width: 400px;
+    max-height: 400px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 15px;
+    margin: 10px 30px;
+}
+
+.Row1 {
+    display: inline-table;
+    margin-top: 10px;
+    border-spacing: 75px 0px;
+}

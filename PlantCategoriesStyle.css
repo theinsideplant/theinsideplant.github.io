@@ -1,0 +1,132 @@
+body {
+    background-image: url(https://cdn.mos.cms.futurecdn.net/7SeS5Cp6WhAoADK4EJYpxX.jpg);
+    background-size: cover;
+}
+
+.container-fluid {
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    background-color: rgba(230, 220, 197, 0.5);
+}
+
+#PetFriendlyCarousel {
+    width: 400px;
+    max-height: 400px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 15px;
+    margin: 10px 30px;
+}
+
+.PetFriendlyHomeLink {
+    background-color: rgba(184, 161, 127, 0.75);
+    max-width: fit-content;
+    font-size: 35px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    text-decoration-style: wavy;
+    color: #402C10;
+    margin-left: 135px;
+}
+
+#BrightLightPlants {
+    width: 400px;
+    max-height: 400px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 15px;
+    margin: 10px 30px;
+}
+
+.BrightHomeLink {
+    background-color: rgba(184, 161, 127, 0.75);
+    max-width: fit-content;
+    font-size: 35px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    text-decoration-style: wavy;
+    color: #402C10;
+    margin-left: 80px;
+}
+
+h1 {
+    max-width: fit-content;
+}
+
+.categories {
+    display: inline-table;
+    margin-top: 10px;
+    border-spacing: 75px 0px;
+}
+
+#LowLightPlants {
+    width: 400px;
+    max-height: 400px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 15px;
+    margin: 10px 30px;
+}
+
+.LowLightPlantsLink {
+    background-color: rgba(184, 161, 127, 0.75);
+    max-width: fit-content;
+    font-size: 35px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    text-decoration-style: wavy;
+    color: #402C10;
+    margin-left: 100px;
+}
+
+.categoriesrowtwo {
+    display: inline-table;
+    border-spacing: 75px 0px;
+}
+
+.RarePlantsLink {
+    background-color: rgba(184, 161, 127, 0.75);
+    max-width: fit-content;
+    font-size: 35px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    text-decoration-style: wavy;
+    color: #402C10;
+    margin-left: 145px;
+}
+
+#RarePlants {
+    width: 400px;
+    max-height: 400px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 15px;
+    margin: 10px 30px;
+}
+
+.BeginnerPlantsLink {
+    background-color: rgba(184, 161, 127, 0.75);
+    max-width: fit-content;
+    font-size: 35px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    text-decoration-style: wavy;
+    color: #402C10;
+    margin-left: 110px;
+}
+
+#BeginnerPlants {
+    width: 400px;
+    max-height: 400px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 15px;
+    margin: 10px 30px;
+}
+
+.ExpertPlantsLink {
+    background-color: rgba(184, 161, 127, 0.75);
+    max-width: fit-content;
+    font-size: 35px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    text-decoration-style: wavy;
+    color: #402C10;
+    margin-left: 125px;
+}
+
+#ExpertPlants {
+    width: 400px;
+    max-height: 400px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 15px;
+    margin: 10px 30px;
+}
