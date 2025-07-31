@@ -7,14 +7,14 @@ body {
 }
 
 .container-fluid {
-    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-family: Comic Sans MS, Comic Sans;
     background-color: rgba(230, 220, 197, 0.5);
 }
 
 #PetFriendlyCarousel {
     width: 400px;
     max-height: 400px;
-    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-family: Comic Sans MS, Comic Sans;
     font-size: 15px;
     margin: 10px 30px;
 }
@@ -23,7 +23,7 @@ body {
     background-color: rgba(184, 161, 127, 0.75);
     max-width: fit-content;
     font-size: 35px;
-    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #402C10;
     margin-left: 135px;
@@ -32,7 +32,7 @@ body {
 #BrightLightPlants {
     width: 400px;
     max-height: 400px;
-    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-family: Comic Sans MS, Comic Sans;
     font-size: 15px;
     margin: 10px 30px;
 }
@@ -41,7 +41,7 @@ body {
     background-color: rgba(184, 161, 127, 0.75);
     max-width: fit-content;
     font-size: 35px;
-    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #402C10;
     margin-left: 80px;
@@ -60,7 +60,7 @@ h1 {
 #LowLightPlants {
     width: 400px;
     max-height: 400px;
-    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-family: Comic Sans MS, Comic Sans;
     font-size: 15px;
     margin: 10px 30px;
 }
@@ -69,7 +69,7 @@ h1 {
     background-color: rgba(184, 161, 127, 0.75);
     max-width: fit-content;
     font-size: 35px;
-    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #402C10;
     margin-left: 100px;
@@ -84,7 +84,7 @@ h1 {
     background-color: rgba(184, 161, 127, 0.75);
     max-width: fit-content;
     font-size: 35px;
-    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #402C10;
     margin-left: 145px;
@@ -93,7 +93,7 @@ h1 {
 #RarePlants {
     width: 400px;
     max-height: 400px;
-    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-family: Comic Sans MS, Comic Sans;
     font-size: 15px;
     margin: 10px 30px;
 }
@@ -102,7 +102,7 @@ h1 {
     background-color: rgba(184, 161, 127, 0.75);
     max-width: fit-content;
     font-size: 35px;
-    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #402C10;
     margin-left: 110px;
@@ -111,7 +111,7 @@ h1 {
 #BeginnerPlants {
     width: 400px;
     max-height: 400px;
-    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-family: Comic Sans MS, Comic Sans;
     font-size: 15px;
     margin: 10px 30px;
 }
@@ -120,7 +120,7 @@ h1 {
     background-color: rgba(184, 161, 127, 0.75);
     max-width: fit-content;
     font-size: 35px;
-    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #402C10;
     margin-left: 125px;
@@ -129,7 +129,7 @@ h1 {
 #ExpertPlants {
     width: 400px;
     max-height: 400px;
-    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-family: Comic Sans MS, Comic Sans;
     font-size: 15px;
     margin: 10px 30px;
 }
