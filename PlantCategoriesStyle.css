@@ -27,6 +27,7 @@ body {
     text-decoration-style: wavy;
     color: #00683B;
     margin-left: 135px;
+    padding: 1px 4px 1px 4px;
 }
 
 #BrightLightPlants {
@@ -45,6 +46,7 @@ body {
     text-decoration-style: wavy;
     color: #00683B;
     margin-left: 80px;
+    padding: 1px 4px 1px 4px;
 }
 
 h1 {
@@ -73,6 +75,7 @@ h1 {
     text-decoration-style: wavy;
     color: #00683B;
     margin-left: 100px;
+    padding: 1px 4px 1px 4px;
 }
 
 .categoriesrowtwo {
@@ -88,6 +91,7 @@ h1 {
     text-decoration-style: wavy;
     color: #00683B;
     margin-left: 145px;
+    padding: 1px 4px 1px 4px;
 }
 
 #RarePlants {
@@ -106,6 +110,7 @@ h1 {
     text-decoration-style: wavy;
     color: #00683B;
     margin-left: 110px;
+    padding: 1px 4px 1px 4px;
 }
 
 #BeginnerPlants {
@@ -124,6 +129,7 @@ h1 {
     text-decoration-style: wavy;
     color: #00683B;
     margin-left: 125px;
+    padding: 1px 4px 1px 4px;
 }
 
 #ExpertPlants {
