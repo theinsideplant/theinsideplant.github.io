@@ -4,7 +4,10 @@
 }
 
 body {
-    background-image: url(https://images.unsplash.com/photo-1607287337832-89ae00338522?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHBhbG0lMjB0cmVlcyUyMGJlYWNofGVufDB8fDB8fHww);
+    background: url(woodbackground.jpg) no-repeat, center, center, fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
 }
 
