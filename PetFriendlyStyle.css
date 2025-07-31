@@ -16,8 +16,9 @@ body {
     font-size: 35px;
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
-    color: rgb(41, 90, 41);
+    color: #00683B;
     margin-left: 135px;
+    background-color: rgba(103, 175, 127, 0.7);
 }
 
 #AutumnFernCarousel {
