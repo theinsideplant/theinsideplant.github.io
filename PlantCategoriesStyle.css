@@ -26,8 +26,9 @@ body {
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #00683B;
-    margin-left: 129px;
+    margin-left: auto;
     padding: 0px 6px 3px 6px;
+    background-size: 50px 250px;
 }
 
 #BrightLightPlants {
