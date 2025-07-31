@@ -1,5 +1,8 @@
 body {
-    background-image: url(https://cdn.mos.cms.futurecdn.net/7SeS5Cp6WhAoADK4EJYpxX.jpg);
+    background: url(categorybackground.jpg) no-repeat, center, center, fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
 }
 
