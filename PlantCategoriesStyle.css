@@ -1,11 +1,11 @@
 body {
-    background: url(001categoriesbackground.jpg) no-repeat, center, center, fixed;
+    background: url(001categoriesbackground.jpg) repeat, center, center, fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
-
+          
 .container-fluid {
     font-family: Comic Sans MS, Comic Sans;
     background-color: rgba(230, 220, 197, 0.5);
