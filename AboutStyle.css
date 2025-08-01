@@ -10,3 +10,11 @@ body {
     -o-background-size: cover;
     background-size: cover;
 }
+
+p {
+    font-family: Comic Sans MS, Comic Sans;
+    font-size: 28px;
+    margin-top: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
