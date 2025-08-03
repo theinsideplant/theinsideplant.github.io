@@ -17,9 +17,9 @@ body {
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #00683B;
-    margin-left: 129px;
+    margin-left: 100px;
     background-color: rgba(103, 175, 127, 0.7);
-    padding: 0px 6px 3px 6px;
+    padding: 0px 10px 7px 10px;
 }
 
 #AutumnFernCarousel {
@@ -53,7 +53,7 @@ body {
     text-decoration-style: wavy;
     color: #00683B;
     margin-left: 129px;
-    padding: 0px 6px 5px 6px;
+    padding: 0px 10px 7px 10px;
     max-height: 42px;
 }
 
@@ -72,7 +72,6 @@ body {
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #00683B;
-    margin-left: 129px;
-    padding: 0px 6px 5px 6px;
-    max-height: 42px;
+    margin-left: 50px;
+    padding: 0px 10px 7px 10px; 
 }
