@@ -13,12 +13,12 @@ body {
 
 .AutumnFernLink {
     background-color: rgba(103, 175, 127, 0.7);
-    max-width: 300px;
+    max-width: 340px;
     font-size: 35px;
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #00683B;
-    margin-left: 80px;
+    margin-left: 30px;
     padding: 0px 10px 7px 10px;
     max-height: 42px;
 }
@@ -68,12 +68,12 @@ body {
 
 .AustralGemLink {
     background-color: rgba(103, 175, 127, 0.7);
-    max-width: 350px;
+    max-width: 370px;
     font-size: 35px;
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #00683B;
-    margin-left: 80px;
+    margin-left: 15px;
     padding: 0px 10px 7px 10px;
     max-height: 42px; 
 }
