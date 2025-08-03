@@ -12,7 +12,6 @@ body {
 }
 
 .AutumnFernLink {
-    max-width: fit-content;
     font-size: 35px;
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
@@ -20,6 +19,7 @@ body {
     margin-left: 100px;
     background-color: rgba(103, 175, 127, 0.7);
     padding: 0px 10px 7px 10px;
+    background-size: auto;
 }
 
 #AutumnFernCarousel {
