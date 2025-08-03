@@ -20,6 +20,7 @@ body {
     background-color: rgba(103, 175, 127, 0.7);
     padding: 0px 10px 7px 10px;
     background-size: auto;
+    max-width: fit-content;
 }
 
 #AutumnFernCarousel {
