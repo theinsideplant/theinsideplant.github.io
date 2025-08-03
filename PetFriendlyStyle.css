@@ -30,13 +30,7 @@ body {
     margin: 10px 30px;
 }
 
-#Row1 {
-    display: inline-table;
-    margin-top: 10px;
-    border-spacing: 75px 0px;
-}
-
-#FullRow1 {
+.categories {
     display: inline-table;
     margin-top: 10px;
     border-spacing: 75px 0px;
