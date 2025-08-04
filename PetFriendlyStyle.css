@@ -13,12 +13,12 @@ body {
 
 h1 {
     max-width: fit-content;
-    background-size: contain;
+    background-size: fit-content;
 }
 
 .AutumnFernLink {
     background-color: rgba(103, 175, 127, 0.7);
-    max-width: 320px;
+    max-width: 360px;
     font-size: 35px;
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
@@ -73,7 +73,7 @@ h1 {
 
 .AustralGemLink {
     background-color: rgba(103, 175, 127, 0.7);
-    max-width: 370px;
+    max-width: 400px;
     font-size: 35px;
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
