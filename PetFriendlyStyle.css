@@ -23,10 +23,9 @@ h1 {
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #00683B;
-    margin-left: 45px;
+    margin-left: 129px;
+    padding: 0px 10px 7px 10px;
     max-height: fit-content;
-    padding-bottom: 7px;
-    background-size: contain;
 }
 
 #AutumnFernCarousel {
@@ -79,10 +78,9 @@ h1 {
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #00683B;
-    margin-left: 15px;
-    max-height: fit-content; 
-    padding-bottom: 7px;
-    background-size: contain;
+    margin-left: 129px;
+    padding: 0px 10px 7px 10px;
+    max-height: fit-content;
 }
 
 .categoriesrowtwo {
@@ -106,7 +104,7 @@ h1 {
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #00683B;
-    margin-left: 129px;
+    margin-left: 65px;
     padding: 0px 10px 7px 10px;
     max-height: fit-content;
 }
@@ -126,7 +124,7 @@ h1 {
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #00683B;
-    margin-left: 129px;
+    margin-left: 60px;
     padding: 0px 10px 7px 10px;
     max-height: fit-content;
 }
@@ -146,7 +144,7 @@ h1 {
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #00683B;
-    margin-left: 129px;
+    margin-left: 110px;
     padding: 0px 10px 7px 10px;
     max-height: fit-content;
 }
