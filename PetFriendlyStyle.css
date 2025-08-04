@@ -143,12 +143,30 @@ h1 {
     margin: auto;
     display: inline-table;
     margin-top: 10px;
-    border-spacing: 33.3333%;
+    border-collapse: separate;
+    border-spacing: 75px 10px;
 }
 
 #ROW2 {
     margin: auto;
     display: inline-table;
     margin-top: 10px;
-    border-spacing: 33.3333%;
+    border-collapse: separate;
+    border-spacing: 75px 10px;
+}
+
+.petfriendlyrowone {
+    margin: auto;
+    display: inline-table;
+    margin-top: 10px;
+    border-collapse: separate;
+    border-spacing: 75px 10px;
+}
+
+.petfriendlyrowtwo {
+    margin: auto;
+    display: inline-table;
+    margin-top: 10px;
+    border-collapse: separate;
+    border-spacing: 75px 10px;
 }
