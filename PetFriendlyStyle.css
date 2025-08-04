@@ -13,7 +13,7 @@ body {
 
 h1 {
     max-width: fit-content;
-    background-size: fit-content;
+    background-size: contain;
 }
 
 .AutumnFernLink {
@@ -23,7 +23,7 @@ h1 {
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #00683B;
-    margin-left: 30px;
+    margin-left: 45px;
     max-height: fit-content;
     padding-bottom: 7px;
     background-size: contain;
@@ -79,7 +79,7 @@ h1 {
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #00683B;
-    margin-left: 15px;
+    margin-left: 20px;
     max-height: fit-content; 
     padding-bottom: 7px;
     background-size: contain;
