@@ -131,7 +131,7 @@ h1 {
     max-height: fit-content;
 }
 
-#BirdsNestNidusFern {
+#BirdsNestFern {
     width: 400px;
     max-height: 400px;
     font-family: Comic Sans MS, Comic Sans;
@@ -139,7 +139,7 @@ h1 {
     margin: 10px 30px;
 }
 
-.NidusFernLink {
+.FernLink {
     background-color: rgba(103, 175, 127, 0.7);
     max-width: fit-content;
     font-size: 35px;
