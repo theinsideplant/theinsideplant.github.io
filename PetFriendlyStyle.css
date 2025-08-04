@@ -23,7 +23,7 @@ h1 {
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #00683B;
-    margin-left: 20px;
+    margin-left: 40px;
     padding: 0px 10px 7px 10px;
     max-height: fit-content;
     background-size: auto;
@@ -79,7 +79,7 @@ h1 {
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #00683B;
-    margin-left: 10px;
+    margin-left: 0px;
     padding: 0px 10px 7px 10px;
     max-height: fit-content;
     background-size: auto;
@@ -106,7 +106,7 @@ h1 {
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #00683B;
-    margin-left: 65px;
+    margin-left: 80px;
     padding: 0px 10px 7px 10px;
     max-height: fit-content;
 }
@@ -126,7 +126,7 @@ h1 {
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #00683B;
-    margin-left: 60px;
+    margin-left: 80px;
     padding: 0px 10px 7px 10px;
     max-height: fit-content;
 }
