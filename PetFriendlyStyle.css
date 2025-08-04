@@ -36,7 +36,7 @@ h1 {
     margin: 10px 30px;
 }
 
-.categories {
+.petfriendlyrowone {
     display: inline-table;
     margin-top: 10px;
     border-spacing: 75px 0px;
@@ -83,7 +83,7 @@ h1 {
     max-height: fit-content;
 }
 
-.categoriesrowtwo {
+.petfriendlyrowtwo {
     display: inline-table;
     margin-top: 10px;
     border-spacing: 75px 0px;
