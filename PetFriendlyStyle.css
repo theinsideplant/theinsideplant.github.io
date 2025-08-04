@@ -41,6 +41,8 @@ h1 {
     display: inline-table;
     margin-top: 10px;
     border-spacing: 75px 0px;
+    width: 100%;
+    border-collapse: separate;
 }
 
 
@@ -146,7 +148,7 @@ h1 {
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #00683B;
-    margin-left: 110px;
+    margin-left: 60px;
     padding: 0px 10px 7px 10px;
     max-height: fit-content;
 }
