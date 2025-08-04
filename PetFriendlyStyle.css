@@ -37,12 +37,6 @@ h1 {
     margin: 10px 30px;
 }
 
-.petfriendlyrowone {
-    display: inline-table;
-    margin-top: 10px;
-    border-spacing: 75px 0px;
-}
-
 
 #ArecaPalmCarousel {
     width: 400px;
@@ -83,12 +77,6 @@ h1 {
     padding: 0px 10px 7px 10px;
     max-height: fit-content;
     background-size: auto;
-}
-
-.petfriendlyrowtwo {
-    display: inline-table;
-    margin-top: 10px;
-    border-spacing: 75px 0px;
 }
 
 #BegoniaMaculataCarousel {
@@ -153,4 +141,14 @@ h1 {
 
 #ROW1 {
     margin: auto;
+    display: inline-table;
+    margin-top: 10px;
+    border-spacing: 33.3333%;
+}
+
+#ROW2 {
+    margin: auto;
+    display: inline-table;
+    margin-top: 10px;
+    border-spacing: 33.3333%;
 }
