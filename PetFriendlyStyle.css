@@ -147,12 +147,12 @@ h1 {
 
 #ROW1 {
     display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     overflow: hidden;
 }
 
 #ROW2 {
     display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     overflow: hidden;
 }
