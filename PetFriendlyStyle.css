@@ -57,7 +57,7 @@ h1 {
     margin-left: 130px;
     padding: 0px 10px 7px 10px;
     max-height: fit-content;
-    background-size: auto;
+    background-size: 200px 42px;
 }
 
 #AustralGemCarousel {
@@ -143,13 +143,13 @@ h1 {
 
 #ROW1 {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 25% 25% 25% 25%;
     overflow: hidden;
-    margin-top: 20px;
+    margin-top: 15px;
 }
 
 #ROW2 {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 25% 25% 25% 25%;
     overflow: hidden;
 }
