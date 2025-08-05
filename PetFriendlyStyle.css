@@ -23,7 +23,7 @@ h1 {
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #00683B;
-    margin-left: 120px;
+    margin-left: 105px;
     padding: 0px 10px 7px 10px;
     max-height: fit-content;
     background-size: auto;
@@ -49,7 +49,7 @@ h1 {
 
 .ArecaPalmLink {
     background-color: rgba(103, 175, 127, 0.7);
-    max-width: fit-content;
+    max-width: max-content;
     font-size: 35px;
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
