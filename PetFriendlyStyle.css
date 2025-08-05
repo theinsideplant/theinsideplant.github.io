@@ -141,10 +141,10 @@ h1 {
 
 #ROW1 {
     display: grid;
-    grid-template-columns: 500px 450px;
+    grid-template-columns: 450px 450px 450px;
 }
 
 #ROW2 {
     display: grid;
-    grid-template-columns: 500px 450px;
+    grid-template-columns: 450px 450px 450px;
 }
