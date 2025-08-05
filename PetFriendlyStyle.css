@@ -27,7 +27,6 @@ h1 {
     padding: 0px 10px 7px 10px;
     max-height: fit-content;
     background-size: auto;
-    margin-top: 10px;
 }
 
 #AutumnFernCarousel {
@@ -57,7 +56,7 @@ h1 {
     margin-left: 130px;
     padding: 0px 10px 7px 10px;
     max-height: fit-content;
-    background-size: 200px 42px;
+    background-size: auto;
 }
 
 #AustralGemCarousel {
