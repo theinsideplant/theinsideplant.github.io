@@ -141,30 +141,10 @@ h1 {
 
 #ROW1 {
     margin: auto;
-    display: inline-table;
-    border-collapse: separate;
-    border-spacing: 75px 10px;
-    width: 100%;
+    display: grid;
 }
 
 #ROW2 {
     margin: auto;
-    display: inline-table;
-    border-collapse: separate;
-    border-spacing: 75px 10px;
-    width: 100%;
-}
-
-.petfriendlyrowone {
-    display: inline-table;
-    margin-top: 10px;
-    border-collapse: separate;
-    border-spacing: 75px 10px;
-}
-
-.petfriendlyrowtwo {
-    display: inline-table;
-    margin-top: 10px;
-    border-collapse: separate;
-    border-spacing: 75px 10px;
+    display: grid;
 }
