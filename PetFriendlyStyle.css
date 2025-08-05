@@ -148,9 +148,11 @@ h1 {
 #ROW1 {
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
+    overflow: hidden;
 }
 
 #ROW2 {
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
+    overflow: hidden;
 }
