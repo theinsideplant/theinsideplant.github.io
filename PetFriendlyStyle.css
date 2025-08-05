@@ -34,7 +34,7 @@ h1 {
     max-height: 400px;
     font-family: Comic Sans MS, Comic Sans;
     font-size: 15px;
-    margin: 20px 100px 20px 100px;
+    margin: 20px 50px 20px 50px;
 }
 
 
@@ -43,7 +43,7 @@ h1 {
     max-height: 400px;
     font-family: Comic Sans MS, Comic Sans;
     font-size: 15px;
-    margin: 20px 100px 20px 100px;
+    margin: 20px 50px 20px 50px;
 }
 
 .ArecaPalmLink {
@@ -63,7 +63,7 @@ h1 {
     max-height: 400px;
     font-family: Comic Sans MS, Comic Sans;
     font-size: 15px;
-    margin: 20px 100px 20px 100px;
+    margin: 20px 50px 20px 50px;
 }
 
 .AustralGemLink {
@@ -84,7 +84,7 @@ h1 {
     max-height: 400px;
     font-family: Comic Sans MS, Comic Sans;
     font-size: 15px;
-    margin: 20px 100px 20px 100px;
+    margin: 20px 50px 20px 50px;
 }
 
 .BegoniaMaculataLink {
@@ -104,7 +104,7 @@ h1 {
     max-height: 400px;
     font-family: Comic Sans MS, Comic Sans;
     font-size: 15px;
-    margin: 20px 100px 20px 100px;
+    margin: 20px 50px 20px 50px;
 }
 
 .BegoniaRexVineLink {
@@ -124,7 +124,7 @@ h1 {
     max-height: 400px;
     font-family: Comic Sans MS, Comic Sans;
     font-size: 15px;
-    margin: 20px 100px 20px 100px;
+    margin: 20px 50px 20px 50px;
 }
 
 .FernLink {
@@ -142,11 +142,11 @@ h1 {
 #ROW1 {
     margin: auto;
     display: grid;
-    grid-template-columns: 600px 650px;
+    grid-template-columns: 700px 500px;
 }
 
 #ROW2 {
     margin: auto;
     display: grid;
-    grid-template-columns: 650px 600px;
+    grid-template-columns: 700px 500px;
 }
