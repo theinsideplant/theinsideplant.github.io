@@ -142,6 +142,7 @@ h1 {
 #ROW1 {
     margin: auto;
     display: grid;
+    grid-template-columns: 600px 650px;
 }
 
 #ROW2 {
