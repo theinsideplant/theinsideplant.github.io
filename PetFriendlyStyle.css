@@ -142,13 +142,15 @@ h1 {
 
 #ROW1 {
     display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
-    overflow: hidden;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    overflow: auto;
     margin-top: 15px;
+    gap: 5px;
 }
 
 #ROW2 {
     display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
-    overflow: hidden;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    overflow: auto;
+    gap: 5px;
 }
