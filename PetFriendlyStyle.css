@@ -27,6 +27,7 @@ h1 {
     padding: 0px 10px 7px 10px;
     max-height: fit-content;
     background-size: auto;
+    margin-top: 10px;
 }
 
 #AutumnFernCarousel {
@@ -56,6 +57,7 @@ h1 {
     margin-left: 129px;
     padding: 0px 10px 7px 10px;
     max-height: fit-content;
+    margin-top: 10px;
 }
 
 #AustralGemCarousel {
@@ -73,10 +75,11 @@ h1 {
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #00683B;
-    margin-left: 0px;
+    margin-left: 60px;
     padding: 0px 10px 7px 10px;
     max-height: fit-content;
     background-size: auto;
+    margin-top: 10px;
 }
 
 #BegoniaMaculataCarousel {
@@ -97,6 +100,7 @@ h1 {
     margin-left: 80px;
     padding: 0px 10px 7px 10px;
     max-height: fit-content;
+    margin-top: 10px;
 }
 
 #BegoniaRexVineCarousel {
@@ -117,6 +121,7 @@ h1 {
     margin-left: 80px;
     padding: 0px 10px 7px 10px;
     max-height: fit-content;
+    margin-top: 10px;
 }
 
 #BirdsNestFern {
@@ -137,6 +142,7 @@ h1 {
     margin-left: 75px;
     padding: 0px 10px 7px 10px;
     max-height: fit-content;
+    margin-top: 10px;
 }
 
 #ROW1 {
