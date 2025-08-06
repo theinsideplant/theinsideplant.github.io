@@ -54,12 +54,6 @@ h1 {
     max-width: fit-content;
 }
 
-#categories {
-    display: inline-table;
-    margin-top: 10px;
-    border-spacing: 75px 0px;
-}
-
 #LowLightPlants {
     width: 400px;
     max-height: 400px;
@@ -77,11 +71,6 @@ h1 {
     color: #00683B;
     margin-left: 94px;
     padding: 0px 6px 5px 6px;
-}
-
-.categoriesrowtwo {
-    display: inline-table;
-    border-spacing: 75px 0px;
 }
 
 .RarePlantsLink {
