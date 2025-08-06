@@ -54,7 +54,7 @@ h1 {
     max-width: fit-content;
 }
 
-.categories {
+#categories {
     display: inline-table;
     margin-top: 10px;
     border-spacing: 75px 0px;
@@ -139,4 +139,18 @@ h1 {
     font-family: Comic Sans MS, Comic Sans;
     font-size: 15px;
     margin: 10px 30px;
+}
+
+#Row1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-top: 15px;
+    gap: 5px;
+}
+
+#Row2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-top: 15px;
+    gap: 5px;
 }
