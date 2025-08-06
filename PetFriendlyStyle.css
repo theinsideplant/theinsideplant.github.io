@@ -147,3 +147,43 @@ h1 {
     gap: 5px;
     overflow: auto;
 }
+
+.BromeliadLink {
+    background-color: rgba(103, 175, 127, 0.7);
+    max-width: fit-content;
+    font-size: 35px;
+    font-family: Comic Sans MS, Comic Sans;
+    text-decoration-style: wavy;
+    color: #00683B;
+    margin-left: 75px;
+    padding: 0px 10px 7px 10px;
+    max-height: fit-content;
+}
+
+#Bromeliads {
+    width: 400px;
+    max-height: 400px;
+    font-family: Comic Sans MS, Comic Sans;
+    font-size: 15px;
+    margin: 10px 25px 20px 25px;
+}
+
+.CalisiaRepensLink {
+    background-color: rgba(103, 175, 127, 0.7);
+    max-width: fit-content;
+    font-size: 35px;
+    font-family: Comic Sans MS, Comic Sans;
+    text-decoration-style: wavy;
+    color: #00683B;
+    margin-left: 75px;
+    padding: 0px 10px 7px 10px;
+    max-height: fit-content;
+}
+
+#CalisiaRepens {
+    width: 400px;
+    max-height: 400px;
+    font-family: Comic Sans MS, Comic Sans;
+    font-size: 15px;
+    margin: 10px 25px 20px 25px;
+}
