@@ -142,10 +142,10 @@ h1 {
 
 #fullpetfriendlygrid {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: max-content;
     margin-top: 15px;
     gap: 5px;
-    overflow: auto;
 }
 
 .BromeliadLink {
