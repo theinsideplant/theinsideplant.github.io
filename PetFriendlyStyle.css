@@ -135,7 +135,7 @@ h1 {
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #00683B;
-    margin-left: 75px;
+    margin-left: 80px;
     padding: 0px 10px 7px 10px;
     max-height: fit-content;
 }
@@ -155,7 +155,7 @@ h1 {
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #00683B;
-    margin-left: 135px;
+    margin-left: 145px;
     padding: 0px 10px 7px 10px;
     max-height: fit-content;
 }
@@ -186,4 +186,9 @@ h1 {
     font-family: Comic Sans MS, Comic Sans;
     font-size: 15px;
     margin: 10px 20px 20px 40px;
+}
+
+.petfriendly {
+    max-width: 460px;
+    max-height: 492px;
 }
