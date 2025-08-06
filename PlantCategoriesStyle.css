@@ -130,16 +130,10 @@ h1 {
     margin: 10px 30px;
 }
 
-#Row1 {
+#fullcategories {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    margin-top: 15px;
-    gap: 5px;
-}
-
-#Row2 {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: max-content;
     margin-top: 15px;
     gap: 5px;
 }
