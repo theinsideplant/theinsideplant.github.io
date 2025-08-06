@@ -115,7 +115,7 @@ h1 {
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #00683B;
-    margin-left: 80px;
+    margin-left: 87px;
     padding: 0px 10px 7px 10px;
     max-height: fit-content;
 }
@@ -140,14 +140,6 @@ h1 {
     max-height: fit-content;
 }
 
-#fullpetfriendlygrid {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: 1fr;
-    margin-top: 15px;
-    gap: 5px;
-}
-
 .BromeliadLink {
     background-color: rgba(103, 175, 127, 0.7);
     max-width: fit-content;
@@ -155,7 +147,7 @@ h1 {
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #00683B;
-    margin-left: 145px;
+    margin-left: 138px;
     padding: 0px 10px 7px 10px;
     max-height: fit-content;
 }
@@ -191,4 +183,12 @@ h1 {
 .petfriendly {
     max-width: 460px;
     max-height: 492px;
+}
+
+#fullpetfriendlygrid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 1fr;
+    margin-top: 15px;
+    gap: 5px;
 }
