@@ -190,8 +190,8 @@ h1 {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(2, 492px);
-    margin-top: 15px;
     gap: 5px;
+    margin: auto;
 }
 
 html {
@@ -231,4 +231,8 @@ footer .form-control {
     color: #d1d2d2;
     padding: 0.7em 1em;
     font-family: Comic Sans MS, Comic Sans;
+}
+
+col-md-5 {
+    margin-left: 20px;
 }
