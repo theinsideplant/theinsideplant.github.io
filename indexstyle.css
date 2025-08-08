@@ -7,7 +7,7 @@ body {
     margin-bottom: 620px;
 }
 
-#mainbutton {
+.btn-btn-info {
     font-size: 35px;
     background-color: rgba(103, 175, 127, 0.5);
     text-decoration: underline;
