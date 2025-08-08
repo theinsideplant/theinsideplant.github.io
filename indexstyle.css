@@ -7,9 +7,9 @@ body {
     margin-bottom: 620px;
 }
 
-.btn-btn-info {
+.btn btn-info {
     font-size: 35px;
-    background-color: rgba(103, 175, 127, 0.85);
+    background-color: rgba(103, 175, 127, 0.5);
     text-decoration: underline;
     text-decoration-style: wavy;
     font-family: Comic Sans MS, Comic Sans;
@@ -28,7 +28,9 @@ body {
 
 .container-fluid {
     font-family: Comic Sans MS, Comic Sans;
-    background-color: rgba(230, 220, 197, 0.5);
+    background-color: rgba(149, 207, 127, 0.5);
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 html {

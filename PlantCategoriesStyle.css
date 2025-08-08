@@ -135,7 +135,7 @@ h1 {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: max-content;
-    margin-top: 15px;
+    margin: auto;
     gap: 5px;
 }
 
