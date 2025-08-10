@@ -84,4 +84,6 @@ col-md-5 {
 
 navbar navbar-expand-lg bg-body-tertiary {
   background-color: rgba(144, 238, 144, 0.7);
+  padding: none;
+  border: none;
 }
