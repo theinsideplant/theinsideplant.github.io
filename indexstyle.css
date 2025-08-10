@@ -5,6 +5,7 @@ body {
   -o-background-size: cover;
   background-size: cover;
   margin-bottom: 620px;
+  border: none;
 }
 
 .btn-btn-info {
