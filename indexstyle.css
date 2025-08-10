@@ -29,8 +29,8 @@ body {
 }
 
 .btn-btn-info:hover {
-  background-color: rgba(103, 175, 127, 0.85);
-  box-shadow: 5px 5px 10px rgba(144, 238, 144, 0.75);
+  background-color: rgba(103, 175, 127, 0.5);
+  box-shadow: 5px 5px 10px rgba(144, 238, 144, 0.5);
 }
 
 .btn-info {
@@ -103,9 +103,9 @@ nav {
 }
 
 drop-down {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .dropdown-item {
-  font-size: 14px;
+  font-size: 16px;
 }
