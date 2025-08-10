@@ -76,3 +76,7 @@ nav {
   font-family: Comic Sans MS, Comic Sans;
   background-color: rgba(144, 238, 144, 0.5);
 }
+
+.container-fluid {
+  background-color: rgba(144, 238, 144, 0.5);
+}

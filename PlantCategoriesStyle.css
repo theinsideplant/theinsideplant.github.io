@@ -12,6 +12,10 @@ nav {
     background-color: rgba(144, 238, 144, 0.5);
 }
 
+.container-fluid {
+    background-color: rgba(144, 238, 144, 0.5);
+}
+
 #PetFriendlyCarousel {
     width: 400px;
     max-height: 400px;
