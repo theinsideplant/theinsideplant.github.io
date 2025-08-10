@@ -25,7 +25,7 @@ body {
   --bs-btn-hover-bg: #ee4b08;	
   --bs-btn-hover-border-color: #ee4b08;
   transition: background-color 2.0s;
-  transition: box-shadow 2.0s ease-in; 
+  transition: box-shadow 1.5s ease-in; 
 }
 
 .btn-btn-info:hover {
