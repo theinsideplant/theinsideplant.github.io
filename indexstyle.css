@@ -8,6 +8,7 @@ body {
   margin: none;
   padding: none;
   border: none;
+  background-color: darkslategrey;
 }
 
 .btn-btn-info {
