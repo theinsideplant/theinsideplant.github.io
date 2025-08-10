@@ -8,12 +8,11 @@ body {
   margin: none;
   padding: none;
   border: none;
-  background-color: darkslategrey;
 }
 
 .btn-btn-info {
   font-size: 35px;
-  background-color: rgba(103, 175, 127, 0.7);
+  background-color: rgba(103, 175, 127, 0.62);
   text-decoration: underline;
   text-decoration-style: wavy;
   font-family: Comic Sans MS, Comic Sans;
@@ -23,12 +22,23 @@ body {
   padding-bottom: 10px;
   margin-top: 18.5%;
   margin-left: 38.5%;
+  --bs-btn-hover-bg: #ee4b08;	
+  --bs-btn-hover-border-color: #ee4b08;
+  transition: background-color 0.5s; 
+}
+
+.btn-btn-info:hover {
+  background-color: rgba(103, 175, 127, 1.0);
+  text-decoration: uppercase;
+  box-shadow: 5px 5px 10px rgba(144, 238, 144, 0.75);
 }
 
 .btn-info {
   color: rgba(61, 38, 18, 0.8);
   text-decoration: none;
 }
+
+
 
 html {
   position: relative;
