@@ -1,36 +1,40 @@
 body {
-    background: url(indexbackground002.jpg) no-repeat, center, center, fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    margin-bottom: 620px;
+  background: url(indexbackground002.jpg) no-repeat, center, center, fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin-bottom: 620px;
 }
 
 .btn-btn-info {
-    font-size: 35px;
-    background-color: rgba(103, 175, 127, 0.7);
-    text-decoration: underline;
-    text-decoration-style: wavy;
-    font-family: Comic Sans MS, Comic Sans;
-    width: 25%;
-    color: rgba(61, 38, 18, 0.8);
-    border: 3px solid rgba(61, 38, 18, 0.85);
-    padding-bottom: 10px;
-    margin-top: 18.5%;
-    margin-left: 38.5%;
+  font-size: 35px;
+  background-color: rgba(103, 175, 127, 0.7);
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  font-family: Comic Sans MS, Comic Sans;
+  width: 25%;
+  color: rgba(61, 38, 18, 0.8);
+  border: 3px solid rgba(61, 38, 18, 0.85);
+  padding-bottom: 10px;
+  margin-top: 18.5%;
+  margin-left: 38.5%;
 }
 
 .btn-info {
-    color: rgba(61, 38, 18, 0.8);
-    text-decoration: none;
+  color: rgba(61, 38, 18, 0.8);
+  text-decoration: none;
 }
 
 .container-fluid {
-    font-family: Comic Sans MS, Comic Sans;
-    background-color: rgba(149, 207, 127, 0.5);
-    padding-top: 10px;
-    padding-bottom: 10px;
+  font-family: Comic Sans MS, Comic Sans;
+  background-color: rgba(144, 238, 144, 0.7);
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.navbar {
+  background-color: rgba(144, 238, 144, 0.7);
 }
 
 html {
@@ -63,15 +67,19 @@ footer a:hover, footer a:focus {
 }
 
 footer .form-control {
-    background-color: whitesmoke;
-    box-shadow: 0 1px 0 0 rgba(255, 255, 255, 0.1);
-    border: none;
-    resize: none;
-    color: #d1d2d2;
-    padding: 0.7em 1em;
-    font-family: Comic Sans MS, Comic Sans;
+  background-color: whitesmoke;
+  box-shadow: 0 1px 0 0 rgba(255, 255, 255, 0.1);
+  border: none;
+  resize: none;
+  color: #d1d2d2;
+  padding: 0.7em 1em;
+  font-family: Comic Sans MS, Comic Sans;
 }
 
 col-md-5 {
-    margin-left: 40px;
+  margin-left: 40px;
+}
+
+navbar navbar-expand-lg bg-body-tertiary {
+  background-color: rgba(144, 238, 144, 0.7);
 }
