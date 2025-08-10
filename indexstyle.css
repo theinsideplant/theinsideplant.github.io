@@ -29,7 +29,7 @@ body {
 }
 
 .btn-btn-info:hover {
-  background-color: rgba(103, 175, 127, 1.0);
+  background-color: rgba(103, 175, 127, 0.85);
   box-shadow: 5px 5px 10px rgba(144, 238, 144, 0.75);
 }
 
@@ -90,4 +90,6 @@ nav {
 
 .container-fluid {
   background-color: rgba(144, 238, 144, 0.5);
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
