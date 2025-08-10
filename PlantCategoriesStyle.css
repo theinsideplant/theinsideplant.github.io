@@ -7,9 +7,9 @@ body {
     margin-bottom: 300px;
 }
           
-.container-fluid {
+nav {
     font-family: Comic Sans MS, Comic Sans;
-    background-color: rgba(230, 220, 197, 0.5);
+    background-color: rgba(144, 238, 144, 0.5);
 }
 
 #PetFriendlyCarousel {
