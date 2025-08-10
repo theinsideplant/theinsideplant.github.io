@@ -24,7 +24,7 @@ body {
   margin-left: 38.5%;
   --bs-btn-hover-bg: #ee4b08;	
   --bs-btn-hover-border-color: #ee4b08;
-  transition: background-color 0.5s; 
+  transition: background-color 2.0s; 
 }
 
 .btn-btn-info:hover {
