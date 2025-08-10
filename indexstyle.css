@@ -7,7 +7,7 @@ body {
   margin-bottom: 620px;
   margin: none;
   padding: none;
-  box-sizing: border-box;
+  border: none;
 }
 
 .btn-btn-info {
@@ -81,18 +81,15 @@ nav {
     rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
   z-index: 1;
 }
-
 nav .logo {
   display: flex;
   align-items: center;
 }
-
 nav .logo img {
   height: 25px;
   width: auto;
   margin-right: 10px;
 }
-
 nav .logo h1 {
   font-size: 1.1rem;
   background: linear-gradient(to right, #b927fc 0%, #2c64fc 100%);
@@ -105,11 +102,9 @@ nav ul {
   list-style: none;
   display: flex;
 }
-
 nav ul li {
   margin-left: 1.5rem;
 }
-
 nav ul li a {
   text-decoration: none;
   color: #000;
@@ -173,7 +168,6 @@ nav ul li a:hover {
   transition: all 0.5s ease-in;
   z-index: 2;
 }
-
 .active {
   left: 0;
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
@@ -183,7 +177,6 @@ nav ul li a:hover {
   padding: 0;
   list-style: none;
 }
-
 .menubar ul li {
   margin-bottom: 32px;
 }
@@ -200,7 +193,6 @@ nav ul li a:hover {
 .menubar ul li a:hover {
   background-color: #f5f5f5;
 }
-
 @media screen and (max-width: 790px) {
   .hamburger {
     display: block;
