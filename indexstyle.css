@@ -93,3 +93,19 @@ nav {
   padding-top: 15px;
   padding-bottom: 15px;
 }
+
+.navbar-brand {
+  font-size: 30px;
+}
+
+.nav-item {
+  font-size: 22px;
+}
+
+drop-down {
+  font-size: 22px;
+}
+
+.dropdown-item {
+  font-size: 18px;
+}
