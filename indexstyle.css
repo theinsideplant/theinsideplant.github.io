@@ -6,6 +6,7 @@ body {
   background-size: cover;
   margin-bottom: 620px;
   border: none;
+  padding: none;
 }
 
 .btn-btn-info {
