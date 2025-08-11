@@ -139,7 +139,7 @@ h1 {
     display: grid;
     grid-template-columns: repeat(auto-fill, 440px);
     grid-template-rows: max-content;
-    margin: auto;
+    margin-top: 15px;
     gap: 5px;
     justify-content: center;
     align-content: center;
