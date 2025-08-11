@@ -141,6 +141,8 @@ h1 {
     grid-template-rows: max-content;
     margin: auto;
     gap: 5px;
+    justify-content: center;
+    align-content: center;
 }
 
 html {
