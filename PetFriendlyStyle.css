@@ -188,8 +188,8 @@ h1 {
 
 #fullpetfriendlygrid {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(2, 492px);
+    grid-template-columns: repeat(autofill, 400px);
+    grid-template-rows: repeat(autofill, 492px);
     gap: 5px;
     margin: auto;
 }
