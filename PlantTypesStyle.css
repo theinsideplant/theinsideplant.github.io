@@ -1,15 +1,40 @@
-.container-fluid {
-    font-family: Comic Sans MS, Comic Sans;
-    background-color: rgba(230, 220, 197, 0.5);
+body {
+    background: url(indexbackground002.jpg) no-repeat, center, center, fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin: none;
+  padding: none;
+  border: none;
+    margin-bottom: 300px;
 }
 
-body {
-    background: url(001categoriesbackground.jpg) repeat, center, center, fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    margin-bottom: 300px;
+nav {
+  font-family: Comic Sans MS, Comic Sans;
+  background-color: rgba(144, 238, 144, 0.5);
+}
+
+.container-fluid {
+  background-color: rgba(144, 238, 144, 0.5);
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.navbar-brand {
+  font-size: 25px;
+}
+
+.nav-item {
+  font-size: 18px;
+}
+
+drop-down {
+  font-size: 16px;
+}
+
+.dropdown-item {
+  font-size: 16px;
 }
 
 html {

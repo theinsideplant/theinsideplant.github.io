@@ -11,7 +11,7 @@ body {
 }
 
 .btn-btn-info {
-  display: flex;
+  display: block;
   font-size: 35px;
   background-color: rgba(103, 175, 127, 0.62);
   text-decoration: underline;
@@ -25,8 +25,7 @@ body {
   --bs-btn-hover-border-color: #ee4b08;
   transition: background-color 2.0s ease-in;
   transition: box-shadow 1.5s ease-in;
-  justify-content: center; 
-  align-content: center;
+  margin: auto;
 }
 
 .btn-btn-info:hover {
@@ -81,7 +80,7 @@ footer .form-control {
 }
 
 col-md-5 {
-  margin-left: 40px;
+  margin-left: 50px;
 }
 
 nav {
