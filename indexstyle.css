@@ -11,6 +11,7 @@ body {
 }
 
 .btn-btn-info {
+  display: flex;
   font-size: 35px;
   background-color: rgba(103, 175, 127, 0.62);
   text-decoration: underline;
@@ -20,12 +21,12 @@ body {
   color: rgba(61, 38, 18, 0.8);
   border: 3px solid rgba(61, 38, 18, 0.85);
   padding-bottom: 10px;
-  margin-top: 18.5%;
-  margin-left: 38.5%;
   --bs-btn-hover-bg: #ee4b08;	
   --bs-btn-hover-border-color: #ee4b08;
   transition: background-color 2.0s ease-in;
-  transition: box-shadow 1.5s ease-in; 
+  transition: box-shadow 1.5s ease-in;
+  justify-content: center; 
+  align-content: center;
 }
 
 .btn-btn-info:hover {
