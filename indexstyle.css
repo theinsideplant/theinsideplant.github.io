@@ -26,6 +26,7 @@ body {
   transition: background-color 2.0s ease-in;
   transition: box-shadow 1.5s ease-in;
   margin: auto;
+  margin-top: 350px;
 }
 
 .btn-btn-info:hover {
