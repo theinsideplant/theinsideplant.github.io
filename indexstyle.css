@@ -95,7 +95,8 @@ nav {
   font-size: 30px;
   text-decoration: none;
   color: black;
-  margin-top: 5px;
+  margin-top: 15px;
+  margin-left: 10px;
 }
 
 drop-down {
@@ -109,7 +110,7 @@ drop-down {
 
 #navbar-items {
   display: flex;
-  margin-top: 10px;
+  margin-top: 25px;
 }
 
 .nav-link {
@@ -127,7 +128,7 @@ drop-down {
 
 #searchbar {
   margin-left: 670px;
-  margin-top: 15px;
+  margin-top: 20px;
 }
 
 .navbar-list {
