@@ -92,15 +92,15 @@ nav {
 }
 
 .navbar-companyname {
-  font-size: 36px;
+  font-size: 30px;
   text-decoration: none;
   color: black;
-  margin-top: auto;
+  margin-top: 31px;
 }
 
 drop-down {
   font-size: 20px;
-  margin-top: auto;
+  margin-top: 29px;
 }
 
 .dropdown-item {
@@ -109,15 +109,16 @@ drop-down {
 
 #navbar-items {
   display: flex;
-  margin-top: auto;
+  margin-top: 29px;
 }
 
 .nav-link {
-  font-size: 24px;
+  font-size: 20px;
   text-decoration: none;
   color: black;
   margin-left: 20px;
-  margin-top: auto;
+  margin-top: 29px;
+  max-width: fit-content;
 }
 
 .form-control{
@@ -126,11 +127,13 @@ drop-down {
 
 #searchbar {
   margin-left: 700px;
-  margin-top: auto;
+  margin-top: 35px;
 }
 
 .navbar-list {
   list-style-type: none;
   display: flex;
   flex-direction: row;
+  max-width: fit-content;
+  max-height: 25px;
 }
