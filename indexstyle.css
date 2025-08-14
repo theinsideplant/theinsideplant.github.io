@@ -8,6 +8,7 @@ body {
   margin: none;
   padding: none;
   border: none;
+  margin-top: 80px;
 }
 
 .btn-btn-info {
@@ -86,20 +87,15 @@ col-md-5 {
 
 nav {
   font-family: Comic Sans MS, Comic Sans;
-  background-color: rgba(144, 238, 144, 0.5);
+  background-color: rgba(144, 238, 144, 0.7);
+  height: 80px;
 }
 
-.container-fluid {
-  background-color: rgba(144, 238, 144, 0.5);
-  padding-top: 15px;
-  padding-bottom: 15px;
-}
-
-.navbar-brand {
+.navbar-companyname {
   font-size: 25px;
 }
 
-.nav-item {
+.nav-item1 {
   font-size: 18px;
 }
 
@@ -109,4 +105,16 @@ drop-down {
 
 .dropdown-item {
   font-size: 16px;
+}
+
+#navbar-items {
+  display: flex;
+}
+
+.nav-item2 {
+  font-size: 18px;
+}
+
+.form-control{
+  max-width: 200px;
 }
