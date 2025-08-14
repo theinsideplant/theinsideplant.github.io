@@ -127,4 +127,11 @@ drop-down {
 
 .navbar-list {
   list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+
+li {
+  margin-right: 20px;
+  font-size: 24px;
 }
