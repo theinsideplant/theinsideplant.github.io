@@ -8,7 +8,6 @@ body {
   margin: none;
   padding: none;
   border: none;
-  margin-top: 80px;
 }
 
 .btn-btn-info {
@@ -25,13 +24,13 @@ body {
   --bs-btn-hover-bg: #ee4b08;	
   --bs-btn-hover-border-color: #ee4b08;
   transition: background-color 2.0s ease-in;
-  transition: box-shadow 1.5s ease-in;
+  transition: box-shadow 1.0s ease-in;
   margin: auto;
   margin-top: 350px;
 }
 
 .btn-btn-info:hover {
-  background-color: rgba(103, 175, 127, 0.75);
+  background-color: rgba(103, 175, 127, 0.85);
   box-shadow: 5px 5px 10px rgba(144, 238, 144, 0.5);
 }
 
@@ -87,18 +86,16 @@ col-md-5 {
 
 nav {
   font-family: Comic Sans MS, Comic Sans;
-  background-color: rgba(144, 238, 144, 0.7);
-  height: 80px;
+  background-color: rgba(144, 238, 144, 1.0);
+  height: 120px;
   display: flex;
   flex-direction: row;
 }
 
 .navbar-companyname {
-  font-size: 30px;
-}
-
-.nav-item1 {
-  font-size: 24px;
+  font-size: 36px;
+  text-decoration: none;
+  color: black;
 }
 
 drop-down {
@@ -113,12 +110,14 @@ drop-down {
   display: flex;
 }
 
-.nav-item2 {
+.nav-link {
   font-size: 24px;
+  text-decoration: none;
+  color: black;
 }
 
 .form-control{
-  max-width: 200px;
+  max-width: 300px;
 }
 
 #searchbar {
@@ -129,9 +128,4 @@ drop-down {
   list-style-type: none;
   display: flex;
   flex-direction: row;
-}
-
-li {
-  margin-right: 20px;
-  font-size: 24px;
 }
