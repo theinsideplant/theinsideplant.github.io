@@ -95,13 +95,13 @@ nav {
   font-size: 30px;
   text-decoration: none;
   color: black;
-  margin-top: 15px;
+  margin-top: 10px;
   margin-left: 10px;
 }
 
 drop-down {
   font-size: 20px;
-  margin-top: 29px;
+  margin-top: 15px;
 }
 
 .dropdown-item {
@@ -110,7 +110,7 @@ drop-down {
 
 #navbar-items {
   display: flex;
-  margin-top: 25px;
+  margin-top: 15px;
 }
 
 .nav-link {
@@ -118,7 +118,7 @@ drop-down {
   text-decoration: none;
   color: black;
   margin-left: 20px;
-  margin-top: 10px;
+  margin-top: 15px;
   max-width: fit-content;
 }
 
@@ -128,7 +128,7 @@ drop-down {
 
 #searchbar {
   margin-left: 670px;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 .navbar-list {
