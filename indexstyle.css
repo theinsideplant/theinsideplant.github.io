@@ -5,7 +5,6 @@ body {
   -o-background-size: cover;
   background-size: cover;
   margin-bottom: 620px;
-  margin-top: 100px;
   padding: none;
   border: none;
 }
@@ -97,13 +96,11 @@ nav {
   text-decoration: none;
   color: black;
   margin-top: auto;
-  margin-bottom: auto;
 }
 
 drop-down {
   font-size: 20px;
   margin-top: auto;
-  margin-bottom: auto;
 }
 
 .dropdown-item {
@@ -113,7 +110,6 @@ drop-down {
 #navbar-items {
   display: flex;
   margin-top: auto;
-  margin-bottom: auto;
 }
 
 .nav-link {
@@ -122,7 +118,6 @@ drop-down {
   color: black;
   margin-left: 20px;
   margin-top: auto;
-  margin-bottom: auto;
 }
 
 .form-control{
@@ -132,7 +127,6 @@ drop-down {
 #searchbar {
   margin-left: 700px;
   margin-top: auto;
-  margin-bottom: auto;
 }
 
 .navbar-list {
