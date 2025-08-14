@@ -89,22 +89,24 @@ nav {
   font-family: Comic Sans MS, Comic Sans;
   background-color: rgba(144, 238, 144, 0.7);
   height: 80px;
+  display: flex;
+  flex-direction: row;
 }
 
 .navbar-companyname {
-  font-size: 25px;
+  font-size: 30px;
 }
 
 .nav-item1 {
-  font-size: 18px;
+  font-size: 24px;
 }
 
 drop-down {
-  font-size: 16px;
+  font-size: 20px;
 }
 
 .dropdown-item {
-  font-size: 16px;
+  font-size: 20px;
 }
 
 #navbar-items {
@@ -112,9 +114,17 @@ drop-down {
 }
 
 .nav-item2 {
-  font-size: 18px;
+  font-size: 24px;
 }
 
 .form-control{
   max-width: 200px;
+}
+
+#searchbar {
+  align-self: flex-end;
+}
+
+.navbar-list {
+  list-style-type: none;
 }
