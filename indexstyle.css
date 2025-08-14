@@ -5,7 +5,7 @@ body {
   -o-background-size: cover;
   background-size: cover;
   margin-bottom: 620px;
-  margin: none;
+  margin-top: 100px;
   padding: none;
   border: none;
 }
@@ -87,7 +87,7 @@ col-md-5 {
 nav {
   font-family: Comic Sans MS, Comic Sans;
   background-color: rgba(144, 238, 144, 1.0);
-  height: 120px;
+  height: 100px;
   display: flex;
   flex-direction: row;
 }
@@ -96,10 +96,14 @@ nav {
   font-size: 36px;
   text-decoration: none;
   color: black;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 drop-down {
   font-size: 20px;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .dropdown-item {
@@ -108,12 +112,17 @@ drop-down {
 
 #navbar-items {
   display: flex;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .nav-link {
   font-size: 24px;
   text-decoration: none;
   color: black;
+  margin-left: 20px;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .form-control{
@@ -121,7 +130,9 @@ drop-down {
 }
 
 #searchbar {
-  align-self: flex-end;
+  margin-left: 700px;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .navbar-list {
