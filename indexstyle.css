@@ -95,14 +95,14 @@ nav {
   font-size: 30px;
   text-decoration: none;
   color: black;
-  margin-top: 5px;
+  margin-top: 15px;
   margin-left: 10px;
   display: inline;
 }
 
 drop-down {
   font-size: 20px;
-  margin-top: 15px;
+  margin-top: 25px;
 }
 
 .dropdown-item {
@@ -111,7 +111,7 @@ drop-down {
 
 #navbar-items {
   display: flex;
-  margin-top: 12px;
+  margin-top: 18px;
 }
 
 .nav-link {
@@ -119,7 +119,7 @@ drop-down {
   text-decoration: none;
   color: black;
   margin-left: 20px;
-  margin-top: 12px;
+  margin-top: 18px;
   max-width: fit-content;
 }
 
@@ -128,8 +128,7 @@ drop-down {
 }
 
 #searchbar {
-  margin-left: 670px;
-  margin-top: 0px;
+  margin-top: 25px;
 }
 
 .navbar-list {
