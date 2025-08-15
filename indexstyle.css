@@ -95,7 +95,7 @@ nav {
   font-size: 30px;
   text-decoration: none;
   color: black;
-  margin: 12px 10px 0px 10px;
+  margin: 17px 0px 0px 12px;
   display: inline;
 }
 
@@ -128,7 +128,7 @@ drop-down {
 #searchbar {
   position: absolute;
   right: 0;
-  margin: 12px 10px 0px 0px;
+  margin: 20px 10px 0px 0px;
 }
 
 .navbar-list {
