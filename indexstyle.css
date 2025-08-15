@@ -130,7 +130,8 @@ drop-down {
 
 #searchbar {
   margin-top: 15px;
-  margin-left: auto;
+  position: absolute;
+  right: 0;
 }
 
 .navbar-list {
