@@ -129,7 +129,7 @@ drop-down {
 
 #searchbar {
   margin-top: 15px;
-  justify-content: end;
+  margin-left: 0.4vh;
 }
 
 .navbar-list {
