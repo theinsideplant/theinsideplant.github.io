@@ -96,7 +96,7 @@ nav {
   font-size: 30px;
   text-decoration: none;
   color: black;
-  margin: 10px 10px 0px 15px;
+  margin: 5px 10px 0px 5px;
   display: inline;
 }
 
@@ -110,7 +110,6 @@ drop-down {
 
 #navbar-items {
   display: flex;
-  margin: 15px 5px 0px 25px;
 }
 
 .nav-link {
@@ -119,7 +118,8 @@ drop-down {
   color: black;
   margin-left: 20px;
   margin: 15px 5px 0px 25px;
-  max-width: fit-content;
+  max-width: max-content;
+  max-height: max-content;
 }
 
 .form-control{
@@ -136,7 +136,7 @@ drop-down {
   list-style-type: none;
   display: inline-flex;
   flex-direction: row;
-  max-width: fit-content;
-  max-height: 25px;
-  margin: 15px 5px 0px 25px;
+  max-width: max-content;
+  max-height: max-content;
+  margin: 8px 5px 0px 20px;
 }
