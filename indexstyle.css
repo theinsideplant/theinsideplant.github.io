@@ -86,9 +86,10 @@ col-md-5 {
 nav {
   font-family: Comic Sans MS, Comic Sans;
   background-color: rgba(144, 238, 144, 1.0);
-  height: 100px;
+  height: 80px;
   display: flex;
   flex-direction: row;
+  overflow: hidden;
 }
 
 .navbar-companyname {
@@ -129,7 +130,7 @@ drop-down {
 
 #searchbar {
   margin-top: 15px;
-  margin-left: 0.4vh;
+  margin-left: auto;
 }
 
 .navbar-list {
