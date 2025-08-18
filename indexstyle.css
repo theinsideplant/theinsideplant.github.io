@@ -80,7 +80,7 @@ footer .form-control {
   font-family: Comic Sans MS, Comic Sans;
 }
 
-col-md-5 {
+.col-md-5 {
   margin-left: 50px;
 }
 
@@ -90,6 +90,8 @@ nav {
   height: 80px;
   display: flex;
   flex-direction: row;
+  border: 5px solid rgba(61, 38, 18, 0.85);
+  border-radius: 10px;
 }
 
 .navbar-companyname {
@@ -143,6 +145,7 @@ nav {
 .btn-outline-success {
   background-color: rgba(103, 175, 127, 0.62);
   border: 2px solid rgba(61, 38, 18, 0.85);
+  text-decoration-color: rgba(61, 38, 18, 0.85);
 }
 
 @media only screen and (max-width: 1230px) {
