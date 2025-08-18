@@ -25,7 +25,8 @@ body {
   transition: background-color 2.0s ease-in;
   transition: box-shadow 1.0s ease-in;
   margin: auto;
-  margin-top: 320px;
+  margin-top: 450px;
+  margin-bottom: 450px;
 }
 
 .btn-btn-info:hover {
