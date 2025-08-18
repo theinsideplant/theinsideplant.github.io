@@ -112,7 +112,7 @@ nav {
   text-decoration: none;
   color: black;
   margin-left: 20px;
-  margin: 10px 20px 0px 0px;
+  margin: 17px 20px 0px 0px;
   max-width: max-content;
   max-height: max-content;
   overflow: auto;
@@ -159,7 +159,7 @@ nav {
   .dropdown-item {
     font-size: 12px;
   }
-  
+
   .form-control {
     max-width: 150px;
   }
