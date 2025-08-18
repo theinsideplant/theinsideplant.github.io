@@ -99,10 +99,6 @@ nav {
   display: inline;
 }
 
-drop-down {
-  font-size: 20px;
-}
-
 .dropdown-item {
   font-size: 20px;
 }
@@ -138,4 +134,17 @@ drop-down {
   max-width: max-content;
   max-height: max-content;
   margin: 8px 5px 0px 20px;
+}
+
+@media only screen and (max-width: 1230px) {
+  .navbar-companyname {
+    font-size: 20px;
+  }
+  .nav-link {
+    font-size: 12px;
+    margin-left: 10px;
+  }
+  .dropdown-item {
+    font-size: 12px;
+  }
 }
