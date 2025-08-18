@@ -97,6 +97,7 @@ nav {
   color: black;
   margin: 17px 0px 0px 12px;
   display: inline;
+  overflow: hidden;
 }
 
 .dropdown-item {
@@ -125,6 +126,7 @@ nav {
   position: absolute;
   right: 0;
   margin: 20px 10px 0px 0px;
+  overflow: hidden;
 }
 
 .navbar-list {
