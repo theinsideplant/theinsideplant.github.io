@@ -80,7 +80,9 @@ footer .form-control {
   font-family: Comic Sans MS, Comic Sans;
 }
 
-.navbar {
+.sticky {
+  position: fixed;
+  top: 0;
   font-family: Comic Sans MS, Comic Sans;
   background-color: rgba(144, 238, 144, 1.0);
   height: 80px;
@@ -88,11 +90,6 @@ footer .form-control {
   flex-direction: row;
   border: 5px solid rgba(61, 38, 18, 0.85);
   border-radius: 10px;
-}
-
-.sticky {
-  position: fixed;
-  top: 0;
 }
 
 .brand {
