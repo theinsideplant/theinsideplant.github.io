@@ -100,6 +100,7 @@ footer .form-control {
   margin-left: 12px;
   display: inline;
   overflow: auto;
+  top: 20px;
 }
 
 .main {
@@ -118,17 +119,20 @@ footer .form-control {
   max-width: max-content;
   max-height: max-content;
   overflow: auto;
+  top: 30px;
 }
 
 .form-control{
   max-width: 300px;
+  min-width: 100px;
   margin-right: 5px;
 }
 
 .searchbar {
   position: absolute;
   right: 0;
-  margin: 15px 10px 0px 0px;
+  margin-right: 10px;
+  top: 25px;
 }
 
 .list {
@@ -137,7 +141,7 @@ footer .form-control {
   flex-direction: row;
   max-width: max-content;
   max-height: max-content;
-  margin: 2px 5px 0px 20px;
+  margin: 0px 5px 0px 20px;
 }
 
 .btn-outline-success {
