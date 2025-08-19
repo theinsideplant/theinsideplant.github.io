@@ -80,7 +80,7 @@ footer .form-control {
   font-family: Comic Sans MS, Comic Sans;
 }
 
-nav {
+.navbar {
   font-family: Comic Sans MS, Comic Sans;
   background-color: rgba(144, 238, 144, 1.0);
   height: 80px;
@@ -90,7 +90,7 @@ nav {
   border-radius: 10px;
 }
 
-.navbar-companyname {
+.brand {
   font-size: 30px;
   text-decoration: none;
   color: black;
@@ -103,7 +103,7 @@ nav {
   font-size: 20px;
 }
 
-#items {
+.items {
   display: flex;
 }
 
