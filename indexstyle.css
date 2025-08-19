@@ -86,7 +86,6 @@ footer .form-control {
   height: 80px;
   display: flex;
   flex-direction: row;
-  border: 5px solid rgba(61, 38, 18, 0.85);
   border-radius: 10px;
 }
 
@@ -99,12 +98,13 @@ footer .form-control {
   overflow: auto;
 }
 
-.dropdown-item {
-  font-size: 20px;
+.main {
+  display: flex;
+  border: 5px solid rgba(61, 38, 18, 0.85);
 }
 
-.items {
-  display: flex;
+.dropdown-item {
+  font-size: 20px;
 }
 
 .nav-link {
