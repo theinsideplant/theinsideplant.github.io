@@ -80,13 +80,14 @@ footer .form-control {
   font-family: Comic Sans MS, Comic Sans;
 }
 
-.navbar {
+.main {
   font-family: Comic Sans MS, Comic Sans;
   background-color: rgba(144, 238, 144, 1.0);
   height: 80px;
   display: flex;
   flex-direction: row;
   border-radius: 10px;
+  border: 5px solid rgba(61, 38, 18, 0.85);
 }
 
 .brand {
@@ -98,9 +99,8 @@ footer .form-control {
   overflow: auto;
 }
 
-.main {
+.double-main {
   display: flex;
-  border: 5px solid rgba(61, 38, 18, 0.85);
 }
 
 .dropdown-item {
