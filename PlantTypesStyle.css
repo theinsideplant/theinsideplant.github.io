@@ -7,12 +7,14 @@ body {
   margin: none;
   padding: none;
   border: none;
-    margin-bottom: 300px;
+  margin-bottom: 300px;
+  margin-top: 80px;
 }
 
 #fullnavbar {
   position: fixed;
   top: 0;
+  z-index: 1000;
   width: 100%;
 }
 
