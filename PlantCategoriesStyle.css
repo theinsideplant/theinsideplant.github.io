@@ -9,6 +9,12 @@ body {
   padding: none;
   border: none;
 }
+
+#fullnavbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
           
 nav {
   font-family: Comic Sans MS, Comic Sans;

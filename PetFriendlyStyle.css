@@ -10,6 +10,12 @@ body {
     margin-bottom: 300px;
 }
 
+#fullnavbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
 nav {
   font-family: Comic Sans MS, Comic Sans;
   background-color: rgba(144, 238, 144, 1.0);
