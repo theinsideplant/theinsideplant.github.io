@@ -329,3 +329,19 @@ footer .form-control {
 col-md-5 {
     margin-left: 40px;
 }
+
+#petcover {
+  font-family: Comic Sans MS, Comic Sans;
+  font-size: 24px;
+  display: flexbox;
+  width: 100%;
+}
+
+#pagedescription {
+  display: flex;
+}
+
+.cover-picture {
+  display: flex;
+  margin: 20px 10px 20px 10px;
+}
