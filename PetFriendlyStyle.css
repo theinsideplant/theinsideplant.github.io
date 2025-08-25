@@ -333,18 +333,10 @@ col-md-5 {
 #petcover {
   font-family: Comic Sans MS, Comic Sans;
   font-size: 20px;
-  display: flex;
-  flex-wrap: wrap;
+  display: inline;
   width: 100%;
 }
 
-#pagedescription {
-  display: flex;
-  flex-wrap: wrap;
-}
-
 .cover-picture {
-  display: flex;
   margin: 20px 10px 20px 10px;
-  flex-wrap: wrap;
 }
