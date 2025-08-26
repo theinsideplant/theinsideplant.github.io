@@ -383,4 +383,8 @@ col-md-5 {
     max-width: 100%;
     height: auto;
   }
+
+  #petcover {
+    padding-right: 0px;
+  }
 }
