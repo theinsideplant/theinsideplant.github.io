@@ -355,6 +355,6 @@ col-md-5 {
   }
   
   .cover-picture {
-    justify-content: center;
+    margin: auto;
   }
 }
