@@ -28,6 +28,7 @@ body {
   margin: auto;
   margin-top: 380px;
   margin-bottom: 450px;
+  cursor: pointer;
 }
 
 .btn-btn-info:hover {
@@ -39,8 +40,6 @@ body {
   color: rgba(61, 38, 18, 0.8);
   text-decoration: none;
 }
-
-
 
 html {
   position: relative;
