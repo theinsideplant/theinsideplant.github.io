@@ -336,8 +336,16 @@ col-md-5 {
   display: flex;
   flex-direction: row;
   width: 100%;
+  border: 5px solid rgba(61, 38, 18, 0.85);
+  padding: 0px 15px 0px 0px;
 }
 
 .cover-picture {
-  margin: 20px 10px 20px 10px;
+  margin: 10px 25px 20px 20px;
+}
+
+@media only screen and (max-width: 973px) {
+  #petcover {
+    font-size: 17px;
+  }
 }
