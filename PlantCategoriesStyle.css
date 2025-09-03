@@ -316,8 +316,10 @@ footer .form-control {
 
 .carousel-control-prev {
   background-color: rgba(144, 238, 144, 1.0);
+  background-size: 30px 30px;
 }
 
 .carousel-control-next {
   background-color: rgba(144, 238, 144, 1.0);
+  background-size: 30px 30px;
 }
