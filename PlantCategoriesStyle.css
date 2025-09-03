@@ -327,3 +327,22 @@ footer .form-control {
   margin-top: 180px;
   width: 40px;
 }
+
+.webpage-link-03 {
+  background-color: rgba(103, 175, 127, 0.7);
+  max-width: fit-content;
+  font-size: 35px;
+  font-family: Comic Sans MS, Comic Sans;
+  text-decoration-style: wavy;
+  color: #00683B;
+  margin-left: 119px;
+  padding: 0px 6px 5px 6px;
+}
+
+#IntermediateLightPlants {
+  width: 400px;
+  max-height: 400px;
+  font-family: Comic Sans MS, Comic Sans;
+  font-size: 15px;
+  margin: 10px 30px;
+}
