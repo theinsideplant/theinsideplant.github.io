@@ -313,3 +313,11 @@ footer .form-control {
     padding: 0.7em 1em;
     font-family: Comic Sans MS, Comic Sans;
 }
+
+.carousel-control-prev {
+  color: rgba(144, 238, 144, 1.0);
+}
+
+.carousel-control-next {
+  color: rgba(144, 238, 144, 1.0);
+}
