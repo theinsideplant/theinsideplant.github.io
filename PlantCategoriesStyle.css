@@ -315,9 +315,9 @@ footer .form-control {
 }
 
 .carousel-control-prev {
-  color: rgba(144, 238, 144, 1.0);
+  background-color: rgba(144, 238, 144, 1.0);
 }
 
 .carousel-control-next {
-  color: rgba(144, 238, 144, 1.0);
+  background-color: rgba(144, 238, 144, 1.0);
 }
