@@ -154,7 +154,7 @@ nav {
     margin: 10px 30px;
 }
 
-.PetFriendlyHomeLink {
+.categories-link-01 {
     background-color: rgba(103, 175, 127, 0.7);
     max-width: fit-content;
     font-size: 35px;
@@ -174,7 +174,7 @@ nav {
     margin: 10px 30px;
 }
 
-.BrightHomeLink {
+.categories-link-02 {
     background-color: rgba(103, 175, 127, 0.7);
     max-width: fit-content;
     font-size: 35px;
@@ -197,7 +197,7 @@ h1 {
     margin: 10px 30px;
 }
 
-.LowLightPlantsLink {
+.categories-link-04 {
     background-color: rgba(103, 175, 127, 0.7);
     max-width: fit-content;
     font-size: 35px;
@@ -208,7 +208,7 @@ h1 {
     padding: 0px 6px 5px 6px;
 }
 
-.RarePlantsLink {
+.categories-link-05 {
     background-color: rgba(103, 175, 127, 0.7);
     max-width: fit-content;
     font-size: 35px;
@@ -227,7 +227,7 @@ h1 {
     margin: 10px 30px;
 }
 
-.BeginnerPlantsLink {
+.categories-link-06 {
     background-color: rgba(103, 175, 127, 0.7);
     max-width: fit-content;
     font-size: 35px;
@@ -246,7 +246,7 @@ h1 {
     margin: 10px 30px;
 }
 
-.ExpertPlantsLink {
+.categories-link-08 {
     background-color: rgba(103, 175, 127, 0.7);
     max-width: fit-content;
     font-size: 35px;
@@ -328,7 +328,7 @@ footer .form-control {
   width: 40px;
 }
 
-.page-link-03 {
+.categories-link-03 {
   background-color: rgba(103, 175, 127, 0.7);
   max-width: fit-content;
   font-size: 35px;
@@ -347,14 +347,14 @@ footer .form-control {
   margin: 10px 30px;
 }
 
-.page-link-07 {
+.categories-link-07 {
   background-color: rgba(103, 175, 127, 0.7);
   max-width: fit-content;
   font-size: 35px;
   font-family: Comic Sans MS, Comic Sans;
   text-decoration-style: wavy;
   color: #00683B;
-  margin-left: 45px;
+  margin-left: 0px;
   padding: 0px 6px 5px 6px;
 }
 
