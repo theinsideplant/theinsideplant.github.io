@@ -253,7 +253,7 @@ h1 {
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #00683B;
-    margin-left: 75px;
+    margin-left: 60px;
     padding: 0px 6px 5px 6px;
 }
 
@@ -354,7 +354,7 @@ footer .form-control {
   font-family: Comic Sans MS, Comic Sans;
   text-decoration-style: wavy;
   color: #00683B;
-  margin-left: 0px;
+  margin-left: 10px;
   padding: 0px 6px 5px 6px;
 }
 
@@ -362,6 +362,6 @@ footer .form-control {
   width: 400px;
   max-height: 400px;
   font-family: Comic Sans MS, Comic Sans;
-  font-size: 25px;
+  font-size: 15px;
   margin: 10px 30px;
 }
