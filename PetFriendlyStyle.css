@@ -20,7 +20,7 @@ body {
 
 nav {
   font-family: Comic Sans MS, Comic Sans;
-  background-color: rgba(144, 238, 144, 1.0);
+  background: url(TIP-testbanner.png) no-repeat, center, center, fixed;
   height: 80px;
   display: flex;
   flex-direction: row;
