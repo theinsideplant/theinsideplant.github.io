@@ -76,7 +76,7 @@ nav {
 }
 
 .btn-outline-success {
-  background: url(indexbuttonbackdrop.png) no-repeat, center, center, fixed;
+  background-image: url(indexbuttonbackdrop.png) no-repeat, center, center, fixed;
   border: 2px solid rgba(61, 38, 18, 0.85);
   text-decoration-color: rgba(61, 38, 18, 0.85);
   color: rgba(61, 38, 18, 0.85);
