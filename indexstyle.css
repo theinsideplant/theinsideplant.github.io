@@ -166,6 +166,7 @@ nav {
   margin-bottom: 450px;
   cursor: pointer;
   border-radius: 10px;
+  height: 180px;
 }
 
 .btn-btn-info:hover {
