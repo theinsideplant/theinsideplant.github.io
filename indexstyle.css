@@ -148,8 +148,8 @@ nav {
 .btn-btn-info {
   display: block;
   font-size: 35px;
-  background: url(indexbuttonbackdrop.png) no-repeat, center, center, fixed;
-  background-size: contain;
+  background: url(buttonbackdrop2.png) no-repeat, center, center, fixed;
+  background-size: fill;
   text-decoration: underline;
   text-decoration-style: wavy;
   font-family: Comic Sans MS, Comic Sans;
