@@ -148,7 +148,7 @@ nav {
 .btn-btn-info {
   display: block;
   font-size: 35px;
-  background-color: rgba(103, 175, 127, 0.62);
+  background: url(indexbuttonbackdrop.png) no-repeat, center, center, fixed;
   text-decoration: underline;
   text-decoration-style: wavy;
   font-family: Comic Sans MS, Comic Sans;
