@@ -33,17 +33,11 @@ nav {
   border-radius: 10px;
 }
 
-p {
-    font-family: Comic Sans MS, Comic Sans;
-    font-size: 28px;
-    margin-top: 75px;
-    margin-left: auto;
-    margin-right: auto;
-    color: black;
-    border: 6px solid #00683B;
-    max-width: 1550px;
-    padding: 5px 10px 5px 10px;
-    background-color: rgba(230, 220, 197, 0.4);
+#RegistrationForm {
+    margin: auto;
+    margin-top: 50px;
+    max-width: 500px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
 }
 
 .navbar-companyname {

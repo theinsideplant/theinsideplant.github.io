@@ -1,5 +1,5 @@
 body {
-    background: url(001categoriesbackground.jpg) no-repeat, center, center, fixed;
+    background: url(TIP-testbackground-3.png) no-repeat, center, center, fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -11,11 +11,6 @@ body {
   margin-top: 100px;
 }
 
-html {
-  position: relative;
-  min-height: 100%;
-}
-
 #fullnavbar {
   position: fixed;
   top: 0;
@@ -25,12 +20,17 @@ html {
 
 nav {
   font-family: Comic Sans MS, Comic Sans;
-  background-color: rgba(144, 238, 144, 1.0);
+  background: url(TIP-MoreIvyNavbar.png) repeat, center, center, fixed;
   height: 80px;
   display: flex;
   flex-direction: row;
   border: 5px solid rgba(61, 38, 18, 0.85);
   border-radius: 10px;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
 }
 
 .navbar-companyname {

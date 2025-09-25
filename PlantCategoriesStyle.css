@@ -4,10 +4,10 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  margin-bottom: 300px;
   margin: none;
   padding: none;
   border: none;
+  margin-bottom: 300px;
   margin-top: 100px;
 }
 
@@ -17,10 +17,10 @@ body {
   width: 100%;
   z-index: 1000;
 }
-          
+
 nav {
   font-family: Comic Sans MS, Comic Sans;
-  background-color: rgba(144, 238, 144, 1.0);
+  background: url(TIP-MoreIvyNavbar.png) repeat, center, center, fixed;
   height: 80px;
   display: flex;
   flex-direction: row;
