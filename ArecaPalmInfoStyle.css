@@ -190,7 +190,8 @@ col-md-5 {
 }
 
 .contaoner-fluid {
-  flex: auto;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 #arecapalmcover {
@@ -205,6 +206,7 @@ col-md-5 {
 }
 
 #arecainfo {
+  display: flex;
   margin: auto;
   flex-wrap: wrap;
 }
