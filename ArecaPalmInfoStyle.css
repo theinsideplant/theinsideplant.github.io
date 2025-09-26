@@ -190,7 +190,7 @@ col-md-5 {
 }
 
 .contaoner-fluid {
-  display: flex;
+  display: inline-block;
   flex-wrap: wrap;
 }
 
@@ -206,7 +206,7 @@ col-md-5 {
 }
 
 #arecainfo {
-  display: flex;
+  display: inline-block;
   margin: auto;
-  flex-wrap: wrap;
+  font-size: 20px;
 }
