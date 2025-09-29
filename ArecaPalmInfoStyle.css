@@ -228,8 +228,8 @@ col-md-5 {
   font-size: 24px;
   color: black;
   line-height: 1.6;
-  margin-left: 40px;
-  margin-top: 30px;
+  margin-left: 80px;
+  margin-top: 40px;
 }
 
 .custom-list li {
@@ -237,6 +237,7 @@ col-md-5 {
 }
 
 #title {
-  margin-top: 30px;
+  margin-top: 40px;
   font-family: Comic Sans MS, Comic Sans;
+  margin-left: 40px;
 }
