@@ -207,7 +207,7 @@ col-md-5 {
 .cover-text {
   width: 50%;
   padding-left: 40px;
-  color: #2f4f4f;
+  color: black;
   margin-right: 40px;
 }
 
@@ -225,9 +225,10 @@ col-md-5 {
   list-style-type: disc;
   padding-left: 20px;
   font-family: Comic Sans MS, Comic Sans;
-  font-size: 27px;
-  color: #2f4f4f;
+  font-size: 24px;
+  color: black;
   line-height: 1.6;
+  margin-left: 40px;
 }
 
 .custom-list li {
