@@ -189,24 +189,35 @@ col-md-5 {
     margin-left: 40px;
 }
 
-.contaoner-fluid {
-  display: inline-block;
-  flex-wrap: wrap;
+.cover {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 40px;
+  background-color: #f9f9f6;
+  font-family: 'Georgia', serif;
 }
 
-#arecapalmcover {
-  border: 5px solid rgba(61, 38, 18, 0.85);
-  border-radius: 10px;
-  margin-left: 50px;
-  margin-top: 50px;
+.cover-image {
+  width: 45%;
+  max-width: 600px;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
-#title {
-  margin: auto;
+.cover-text {
+  width: 50%;
+  padding-left: 40px;
+  color: #2f4f4f;
 }
 
-#arecainfo {
-  display: inline-block;
-  margin: auto;
-  font-size: 20px;
+.cover-text h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.cover-text p {
+  font-size: 1.2rem;
+  line-height: 1.6;
 }
