@@ -197,16 +197,18 @@ col-md-5 {
 }
 
 .cover-image {
-  width: 300px;
+  width: 400px;
   height: auto;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  margin-left: 60px;
 }
 
 .cover-text {
   width: 50%;
   padding-left: 40px;
   color: #2f4f4f;
+  margin-right: 40px;
 }
 
 .cover-text h1 {
