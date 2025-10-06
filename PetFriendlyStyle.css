@@ -11,6 +11,13 @@ body {
   margin-top: 100px;
 }
 
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
 nav {
   font-family: Comic Sans MS, Comic Sans;
   background: url(TIP-MoreIvyNavbar.png) repeat, center, center, fixed;
@@ -19,10 +26,6 @@ nav {
   flex-direction: row;
   border: 5px solid rgba(61, 38, 18, 0.85);
   border-radius: 10px;
-  position: fixed;
-  top: 0;
-  width: 100%;
-  z-index: 1000;
 }
 
 .navbar-companyname {
@@ -148,19 +151,6 @@ h1 {
     background-size: contain;
 }
 
-.pet-card__link-03 {
-    background-color: rgba(103, 175, 127, 0.7);
-    max-width: max-content;
-    font-size: 35px;
-    font-family: Comic Sans MS, Comic Sans;
-    text-decoration-style: wavy;
-    color: #00683B;
-    margin-left: 130px;
-    padding: 0px 10px 7px 10px;
-    max-height: fit-content;
-    background-size: auto;
-}
-
 #AutumnFernCarousel {
     width: 400px;
     max-height: 400px;
@@ -185,8 +175,8 @@ h1 {
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #00683B;
-    text-align: center;
-    margin: 0 auto 1rem;
+    display: inline-block;
+    margin: 0 auto;
     padding: 0px 10px 7px 10px;
     max-height: fit-content;
     background-size: auto;
@@ -244,6 +234,7 @@ h1 {
 .pet-card {
     max-width: 460px;
     max-height: 492px;
+    text-align: center;
 }
 
 .pet-grid {
