@@ -176,7 +176,7 @@ h1 {
     text-decoration-style: wavy;
     color: #00683B;
     display: inline-block;
-    margin: 0 auto;
+    margin: auto;
     padding: 0px 10px 7px 10px;
     max-height: fit-content;
     background-size: auto;
