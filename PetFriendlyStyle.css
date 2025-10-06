@@ -11,7 +11,7 @@ body {
   margin-top: 100px;
 }
 
-.navbar {
+#fullnavbar {
   position: fixed;
   top: 0;
   width: 100%;
@@ -149,6 +149,7 @@ nav {
 h1 {
     max-width: fit-content;
     background-size: contain;
+    margin: auto;
 }
 
 #AutumnFernCarousel {
@@ -165,7 +166,7 @@ h1 {
     max-height: 400px;
     font-family: Comic Sans MS, Comic Sans;
     font-size: 15px;
-    margin: 10px 30px;
+    margin: 10px 20px 20px 40px;
 }
 
 .pet-card__link {
