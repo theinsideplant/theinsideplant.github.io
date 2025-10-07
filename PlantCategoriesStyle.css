@@ -239,5 +239,9 @@ footer .form-control {
 }
 
 .section-grid {
-  margin-bottom: 10px;
+  max-width: 460px;
+  max-height: 492px;
+  text-align: center;
+  justify-items: center;
+  margin-bottom: 30px;
 }

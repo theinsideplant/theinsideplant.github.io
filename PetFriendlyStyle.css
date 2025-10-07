@@ -189,6 +189,7 @@ h1 {
     max-height: 492px;
     text-align: center;
     justify-items: center;
+    margin-bottom: 30px;
 }
 
 .pet-grid {
@@ -290,8 +291,4 @@ col-md-5 {
   height: 55px;
   margin-top: 180px;
   width: 40px;
-}
-
-.section-grid {
-  margin-bottom: 10px;
 }
