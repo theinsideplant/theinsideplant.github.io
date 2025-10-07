@@ -154,6 +154,10 @@ nav {
     margin-top: 30px;
 }
 
+#ArecaPalm {
+  margin-top: 10px;
+}
+
 .pet-card__link {
     background-color: rgba(103, 175, 127, 0.7);
     max-width: max-content;
