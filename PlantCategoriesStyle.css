@@ -159,12 +159,7 @@ nav {
     max-height: fit-content;
     background-size: auto;
     margin-bottom: 10px;
-}
-
-h1 {
-    max-width: fit-content;
-    margin-bottom: 20px;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 .plant-carousel {

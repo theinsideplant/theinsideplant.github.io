@@ -146,18 +146,12 @@ nav {
   }
 }
 
-h1 {
-    max-width: fit-content;
-    margin-bottom: 20px;
-    margin-top: 20px;
-}
-
 .pet-carousel {
     width: 400px;
     max-height: 400px;
     font-family: Comic Sans MS, Comic Sans;
     font-size: 15px;
-    margin-top: 15px;
+    margin-top: 30px;
 }
 
 .pet-card__link {
