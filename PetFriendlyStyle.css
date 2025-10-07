@@ -148,8 +148,8 @@ nav {
 
 h1 {
     max-width: fit-content;
-    background-size: contain;
-    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 .pet-carousel {
@@ -290,4 +290,8 @@ col-md-5 {
   height: 55px;
   margin-top: 180px;
   width: 40px;
+}
+
+.section-grid {
+  margin-bottom: 10px;
 }
