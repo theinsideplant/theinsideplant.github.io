@@ -152,7 +152,7 @@ h1 {
     margin: auto;
 }
 
-#AutumnFernCarousel {
+.pet-carousel {
     width: 400px;
     max-height: 400px;
     font-family: Comic Sans MS, Comic Sans;
@@ -182,54 +182,6 @@ h1 {
     max-height: fit-content;
     background-size: auto;
     margin-bottom: 10px;
-}
-
-#AustralGemCarousel {
-    width: 400px;
-    max-height: 400px;
-    font-family: Comic Sans MS, Comic Sans;
-    font-size: 15px;
-    margin-top: 15px;
-}
-
-#BostonFernCarousel {
-    width: 400px;
-    max-height: 400px;
-    font-family: Comic Sans MS, Comic Sans;
-    font-size: 15px;
-    margin-top: 15px;
-}
-
-#BegoniaRexVineCarousel {
-    width: 400px;
-    max-height: 400px;
-    font-family: Comic Sans MS, Comic Sans;
-    font-size: 15px;
-    margin-top: 15px;
-}
-
-#BirdsNestFern {
-    width: 400px;
-    max-height: 400px;
-    font-family: Comic Sans MS, Comic Sans;
-    font-size: 15px;
-    margin-top: 15px;
-}
-
-#Bromeliads {
-    width: 400px;
-    max-height: 400px;
-    font-family: Comic Sans MS, Comic Sans;
-    font-size: 15px;
-    margin-top: 15px;
-}
-
-#CalisiaRepens {
-    width: 400px;
-    max-height: 400px;
-    font-family: Comic Sans MS, Comic Sans;
-    font-size: 15px;
-    margin-top: 15px;
 }
 
 .pet-card {
@@ -324,4 +276,18 @@ col-md-5 {
     max-width: 100%;
     height: auto;
   }
+}
+
+.carousel-control-prev {
+  width: 40px;
+  background-color: rgba(36, 36, 36, 0.75);
+  height: 55px;
+  margin-top: 180px;
+}
+
+.carousel-control-next {
+  background-color: rgba(36, 36, 36, 0.75);
+  height: 55px;
+  margin-top: 180px;
+  width: 40px;
 }

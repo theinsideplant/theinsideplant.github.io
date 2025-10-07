@@ -146,27 +146,19 @@ nav {
   }
 }
 
-.carousel-title-01 {
+.pet-card__link {
     background-color: rgba(103, 175, 127, 0.7);
-    max-width: fit-content;
+    max-width: max-content;
     font-size: 35px;
     font-family: Comic Sans MS, Comic Sans;
     text-decoration-style: wavy;
     color: #00683B;
-    margin-left: 129px;
-    padding: 0px 6px 3px 6px;
-    max-height: 38px;
-}
-
-.carousel-title-02 {
-    background-color: rgba(103, 175, 127, 0.7);
-    max-width: fit-content;
-    font-size: 35px;
-    font-family: Comic Sans MS, Comic Sans;
-    text-decoration-style: wavy;
-    color: #00683B;
-    margin-left: 74px;
-    padding: 0px 6px 5px 6px;
+    display: inline-block;
+    margin: auto;
+    padding: 0px 10px 7px 10px;
+    max-height: fit-content;
+    background-size: auto;
+    margin-bottom: 10px;
 }
 
 h1 {
@@ -183,56 +175,12 @@ h1 {
     margin: 10px 30px;
 }
 
-.carousel-title-04 {
-    background-color: rgba(103, 175, 127, 0.7);
-    max-width: fit-content;
-    font-size: 35px;
-    font-family: Comic Sans MS, Comic Sans;
-    text-decoration-style: wavy;
-    color: #00683B;
-    margin-left: 94px;
-    padding: 0px 6px 5px 6px;
-}
-
-.carousel-title-05 {
-    background-color: rgba(103, 175, 127, 0.7);
-    max-width: fit-content;
-    font-size: 35px;
-    font-family: Comic Sans MS, Comic Sans;
-    text-decoration-style: wavy;
-    color: #00683B;
-    margin-left: 139px;
-    padding: 0px 6px 5px 6px;
-}
-
-.carousel-title-06 {
-    background-color: rgba(103, 175, 127, 0.7);
-    max-width: fit-content;
-    font-size: 35px;
-    font-family: Comic Sans MS, Comic Sans;
-    text-decoration-style: wavy;
-    color: #00683B;
-    margin-left: 50px;
-    padding: 0px 6px 5px 6px;
-}
-
-.carousel-title-08 {
-    background-color: rgba(103, 175, 127, 0.7);
-    max-width: fit-content;
-    font-size: 35px;
-    font-family: Comic Sans MS, Comic Sans;
-    text-decoration-style: wavy;
-    color: #00683B;
-    margin-left: 70px;
-    padding: 0px 6px 5px 6px;
-}
-
 .plant-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, 440px);
     grid-template-rows: max-content;
-    margin-top: 15px;
     gap: 5px;
+    margin-top: 15px;
     justify-content: center;
     align-content: center;
 }
@@ -290,27 +238,6 @@ footer .form-control {
   width: 40px;
 }
 
-.carousel-title-03 {
-  background-color: rgba(103, 175, 127, 0.7);
-  max-width: fit-content;
-  font-size: 35px;
-  font-family: Comic Sans MS, Comic Sans;
-  text-decoration-style: wavy;
-  color: #00683B;
-  margin-left: 60px;
-  padding: 0px 6px 5px 6px;
-}
-
-.carousel-title-07 {
-  background-color: rgba(103, 175, 127, 0.7);
-  max-width: fit-content;
-  font-size: 33px;
-  font-family: Comic Sans MS, Comic Sans;
-  text-decoration-style: wavy;
-  color: #00683B;
-  margin-left: 18px;
-  padding: 0px 6px 5px 6px;
-}
 
 .section-grid {
   margin-bottom: 10px;
