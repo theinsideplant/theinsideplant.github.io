@@ -160,15 +160,6 @@ h1 {
     margin-top: 15px;
 }
 
-
-#ArecaPalmCarousel {
-    width: 400px;
-    max-height: 400px;
-    font-family: Comic Sans MS, Comic Sans;
-    font-size: 15px;
-    margin-top: 30px;
-}
-
 .pet-card__link {
     background-color: rgba(103, 175, 127, 0.7);
     max-width: max-content;
