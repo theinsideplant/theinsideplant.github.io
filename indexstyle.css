@@ -145,8 +145,7 @@ nav {
   }
 }
 
-.btn-btn-info {
-  display: block;
+.btn-btn-nav {
   font-size: 35px;
   background: url(finalbuttonredone.png) no-repeat, center, center, fixed;
   background-size: cover;
@@ -161,22 +160,25 @@ nav {
   --bs-btn-hover-border-color: #ee4b08;
   transition: background-color 2.0s ease-in;
   transition: box-shadow 1.0s ease-in;
-  margin: auto;
-  margin-top: 380px;
-  margin-bottom: 450px;
   cursor: pointer;
   border-radius: 10px;
-  height: 180px;
+  height: 160px;
 }
 
-.btn-btn-info:hover {
+.btn-btn-nav:hover {
   background-color: rgba(103, 175, 127, 0.85);
   box-shadow: 5px 5px 10px rgba(144, 238, 144, 0.5);
 }
 
-.btn-info {
+.btn-info__link {
   color: rgba(61, 38, 18, 0.8);
   text-decoration: none;
+}
+
+.btn-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 html {
