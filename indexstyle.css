@@ -8,6 +8,7 @@ body {
   padding: none;
   border: none;
   margin-top: 100px;
+  height: 1080px;
 }
 
 #fullnavbar {
@@ -177,8 +178,8 @@ nav {
 
 .btn-nav {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  align-content: center;
+  margin-top: 460px
 }
 
 html {
