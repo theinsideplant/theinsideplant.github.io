@@ -272,3 +272,7 @@ col-md-5 {
   font-family: Comic Sans MS, Comic Sans;
   margin-left: 40px;
 }
+
+li {
+  margin-bottom: 30px;
+}
