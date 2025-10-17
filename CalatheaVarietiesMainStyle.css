@@ -1,0 +1,289 @@
+body {
+    background: url(TIP-testbackground-3.png) no-repeat, center, center, fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin: none;
+  padding: none;
+  border: none;
+  margin-bottom: 300px;
+  margin-top: 100px;
+}
+
+#fullnavbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+nav {
+  font-family: Comic Sans MS, Comic Sans;
+  background: url(TIP-MoreIvyNavbar.png) repeat, center, center, fixed;
+  height: 80px;
+  display: flex;
+  flex-direction: row;
+  border: 5px solid rgba(61, 38, 18, 0.85);
+  border-radius: 10px;
+}
+
+.navbar-companyname {
+  font-size: 30px;
+  text-decoration: none;
+  color: black;
+  margin: 12px 0px 0px 12px;
+  display: inline;
+  overflow: auto;
+}
+
+.dropdown-item {
+  font-size: 20px;
+}
+
+#navbar-items {
+  display: flex;
+}
+
+.nav-link {
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+  margin-left: 20px;
+  margin: 17px 20px 0px 0px;
+  max-width: max-content;
+  max-height: max-content;
+  overflow: auto;
+}
+
+.form-control{
+  max-width: 300px;
+  margin-right: 5px;
+}
+
+#searchbar {
+  position: absolute;
+  right: 0;
+  margin: 15px 10px 0px 0px;
+}
+
+.navbar-list {
+  list-style-type: none;
+  display: inline-flex;
+  flex-direction: row;
+  max-width: max-content;
+  max-height: max-content;
+  margin: 2px 5px 0px 20px;
+}
+
+.btn-outline-success {
+  background-color: rgba(103, 175, 127, 0.5);
+  border: 2px solid rgba(61, 38, 18, 0.85);
+  text-decoration-color: rgba(61, 38, 18, 0.85);
+  color: rgba(61, 38, 18, 0.85);
+}
+
+@media only screen and (max-width: 1250px) {
+  .navbar-companyname {
+    font-size: 20px;
+    margin-top: 18px;
+  }
+
+  .nav-link {
+    font-size: 17px;
+    margin-left: 5px;
+    margin-top: 20px;
+  }
+
+  .dropdown-item {
+    font-size: 17px;
+  }
+
+  .form-control {
+    max-width: 150px;
+  }
+}
+
+@media only screen and (max-width: 1008px) {
+  .navbar-companyname {
+    font-size: 18px;
+    margin-top: 19px;
+  }
+
+  .nav-link {
+    font-size: 14px;
+    margin-left: 5px;
+    margin-top: 23px;
+  }
+
+  .dropdown-item {
+    font-size: 14px;
+  }
+
+  .form-control {
+    max-width: 150px;
+  }
+}
+
+@media only screen and (max-width: 918px) {
+  .navbar-companyname {
+    font-size: 14px;
+    margin-top: 24px;
+  }
+
+  .nav-link {
+    font-size: 12px;
+    margin-left: 0px;
+    margin-top: 24px;
+  }
+
+  .dropdown-item {
+    font-size: 14px;
+  }
+
+  .form-control {
+    max-width: 125px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  max-height: 300px;
+  padding-top: 30px;
+  background-color: #292c2f;
+  color: #bbb;
+  font-family: Comic Sans MS, Comic Sans;
+  margin-top: 50px;
+}
+
+footer a {
+  color: #999;
+  text-decoration:none;
+  font-family: Comic Sans MS, Comic Sans;
+}
+
+footer a:hover, footer a:focus {
+  color: #aaa;
+  text-decoration:none;
+  border-bottom:1px dotted #999;
+  font-family: Comic Sans MS, Comic Sans;
+}
+
+footer .form-control {
+    background-color: whitesmoke;
+    box-shadow: 0 1px 0 0 rgba(255, 255, 255, 0.1);
+    border: none;
+    resize: none;
+    color: #d1d2d2;
+    padding: 0.7em 1em;
+    font-family: Comic Sans MS, Comic Sans;
+}
+
+col-md-5 {
+    margin-left: 40px;
+}
+
+@media only screen and (max-width: 1030px) {
+  #petcover {
+    font-size: 17px;
+  }
+}
+
+@media only screen and (max-width: 936px) {
+  #pagedescription {
+    display: none;
+  }
+  
+  .cover-picture {
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+.carousel-control-prev {
+  width: 40px;
+  background-color: rgba(36, 36, 36, 0.75);
+  height: 55px;
+  margin-top: 180px;
+}
+
+.carousel-control-next {
+  background-color: rgba(36, 36, 36, 0.75);
+  height: 55px;
+  margin-top: 180px;
+  width: 40px;
+}
+
+.cover {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: Comic Sans MS, Comic Sans;
+}
+
+.cover-image {
+  width: 700px;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  margin-left: 90px;
+}
+
+.cover-text {
+  width: 50%;
+  padding-left: 18px;
+  color: black;
+  margin-right: 40px;
+}
+
+.cover-text h1 {
+  margin-bottom: 20px;
+}
+
+.cover-text p {
+  font-size: 22px;
+  line-height: 1.6;
+}
+
+.custom-list {
+  list-style-type: disc;
+  padding-left: 20px;
+  font-family: Comic Sans MS, Comic Sans;
+  color: black;
+  line-height: 1.6;
+  margin-left: 80px;
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+.custom-list li {
+  margin-bottom: 10px;
+  margin-bottom: 30px;
+}
+
+#title {
+  margin-top: 40px;
+  font-family: Comic Sans MS, Comic Sans;
+  margin-left: 40px;
+}
+
+.species-list {
+  list-style-type: circle;
+  margin-left: 100px;
+  font-size: 26px;
+  font-family: Comic Sans MS, Comic Sans;
+  margin-bottom: 50px;
+}
+
+.list-title {
+  font-size: 26px;
+  font-family: Comic Sans MS, Comic Sans;
+}
