@@ -393,3 +393,39 @@ col-md-5 {
   border-right: 4px solid rgba(20, 60, 40, 1);
   border-left: 2px solid rgba(20, 60, 40, 1);
 }
+
+.cultivars-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr) 2fr;
+  gap: var(--gap);
+  align-items: start;
+  border: 3px solid rgba(20, 60, 40, 1);
+  margin-left: 50px;
+  margin-right: 50px;
+  font-size: 20px;
+  font-family: Comic Sans MS, Comic Sans;
+}
+
+@media (max-width: 760px) {
+  .cultivars-grid {
+  grid-template-columns: 1fr;
+  }
+}
+
+.true-calathea-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr) 2fr;
+  gap: var(--gap);
+  align-items: start;
+  border: 3px solid rgba(20, 60, 40, 1);
+  margin-left: 50px;
+  margin-right: 50px;
+  font-size: 20px;
+  font-family: Comic Sans MS, Comic Sans;
+}
+
+@media (max-width: 760px) {
+  .true-calathea-grid {
+  grid-template-columns: 1fr;
+  }
+}
