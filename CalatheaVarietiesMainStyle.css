@@ -284,7 +284,7 @@ col-md-5 {
 }
 
 .grid-title {
-  font-size: 28px;
+  font-size: 32px;
   font-family: Comic Sans MS, Comic Sans;
   align-self: center;
 }
@@ -308,8 +308,7 @@ col-md-5 {
 }
 
 .grid-item {
-  border: 3px solid rgba(20, 60, 40, 1);
-  border-radius: 8px;
+  border: 2px solid rgba(20, 60, 40, 1);
   padding: 12px;
   box-shadow: 0 2px 6px rgba(15,20,25,0.04);
   display: flex;
@@ -317,7 +316,7 @@ col-md-5 {
   justify-content: center;
   align-items: center;
   text-align: center;
-  font-size: 26px;
+  font-size: 20px;
   font-family: Comic Sans MS, Comic Sans;
 }
 
@@ -327,7 +326,21 @@ col-md-5 {
 }
 
 .species-first {
-  font-size: 24px;
+  font-size: 28px;
   font-family: Comic Sans MS, Comic Sans;
   margin-left: 70px;
+}
+
+.grid-item-title {
+  border: 2px solid rgba(20, 60, 40, 1);
+  padding: 12px;
+  box-shadow: 0 2px 6px rgba(15,20,25,0.04);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 23px;
+  font-family: Comic Sans MS, Comic Sans;
+  font-family: Comic Sans MS, Comic Sans;
 }
