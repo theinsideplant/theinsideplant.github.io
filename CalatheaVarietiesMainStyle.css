@@ -331,7 +331,7 @@ col-md-5 {
   margin-left: 70px;
 }
 
-.grid-item-title {
+.grid-item-title-4 {
   padding: 12px;
   display: flex;
   flex-direction: column;
@@ -340,8 +340,6 @@ col-md-5 {
   text-align: center;
   font-size: 23px;
   font-family: Comic Sans MS, Comic Sans;
-  font-family: Comic Sans MS, Comic Sans;
-  border-left: 2px solid rgba(20, 60, 40, 1);
 }
 
 .grid-items-1 {
@@ -367,5 +365,30 @@ col-md-5 {
   text-align: center;
   font-size: 23px;
   font-family: Comic Sans MS, Comic Sans;
+  border-left: 4px solid rgba(20, 60, 40, 1);
+}
+
+.grid-item-title-2 {
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 23px;
   font-family: Comic Sans MS, Comic Sans;
+  font-family: Comic Sans MS, Comic Sans;
+}
+
+.grid-item-title-3 {
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 23px;
+  font-family: Comic Sans MS, Comic Sans;
+  font-family: Comic Sans MS, Comic Sans;
+  border-right: 4px solid rgba(20, 60, 40, 1);
 }
