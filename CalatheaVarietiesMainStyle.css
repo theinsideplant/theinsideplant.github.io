@@ -342,7 +342,6 @@ col-md-5 {
   font-family: Comic Sans MS, Comic Sans;
   font-family: Comic Sans MS, Comic Sans;
   border-left: 2px solid rgba(20, 60, 40, 1);
-  border-bottom: 2px solid rgba(20, 60, 40, 1);
 }
 
 .grid-items-1 {
@@ -369,5 +368,4 @@ col-md-5 {
   font-size: 23px;
   font-family: Comic Sans MS, Comic Sans;
   font-family: Comic Sans MS, Comic Sans;
-  border-bottom: 2px solid rgba(20, 60, 40, 1);
 }
