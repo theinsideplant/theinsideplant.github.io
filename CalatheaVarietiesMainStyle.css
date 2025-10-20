@@ -287,3 +287,34 @@ col-md-5 {
   font-size: 26px;
   font-family: Comic Sans MS, Comic Sans;
 }
+
+.four-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr) 2fr;
+  gap: var(--gap);
+  align-items: start;
+  border-color: rgba(20, 60, 40, 1);
+}
+
+@media (max-width: 760px) {
+  .four-grid {
+  grid-template-columns: 1fr;
+  }
+}
+
+.grid-item {
+  border: 1px solid var(--card-border);
+  border-radius: 8px;
+  padding: 18px;
+  box-shadow: 0 2px 6px rgba(15,20,25,0.04);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-color: rgba(20, 60, 40, 1);
+}
+
+.grid-item--wide {
+  border-color: rgba(20, 60, 40, 1);
+}
