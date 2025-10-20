@@ -286,7 +286,7 @@ col-md-5 {
 .grid-title {
   font-size: 32px;
   font-family: Comic Sans MS, Comic Sans;
-  margin-left: 50px;
+  margin-left: 80px;
 }
 
 .four-grid {
@@ -328,7 +328,8 @@ col-md-5 {
 .species-first {
   font-size: 28px;
   font-family: Comic Sans MS, Comic Sans;
-  margin-left: 70px;
+  margin-left: 110px;
+  list-style-type: circle;
 }
 
 .grid-item-title-4 {
