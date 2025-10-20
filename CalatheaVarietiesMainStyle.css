@@ -286,7 +286,7 @@ col-md-5 {
 .grid-title {
   font-size: 32px;
   font-family: Comic Sans MS, Comic Sans;
-  align-self: center;
+  margin-left: 50px;
 }
 
 .four-grid {
