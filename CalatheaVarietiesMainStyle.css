@@ -365,6 +365,7 @@ col-md-5 {
   text-align: center;
   font-size: 23px;
   font-family: Comic Sans MS, Comic Sans;
+  border-right: 2px solid rgba(20, 60, 40, 1);
 }
 
 .grid-item-title-2 {
@@ -376,8 +377,8 @@ col-md-5 {
   text-align: center;
   font-size: 23px;
   font-family: Comic Sans MS, Comic Sans;
-  border-right: 4px solid rgba(20, 60, 40, 1);
-  border-left: 4px solid rgba(20, 60, 40, 1);
+  border-right: 2px solid rgba(20, 60, 40, 1);
+  border-left: 2px solid rgba(20, 60, 40, 1);
 }
 
 .grid-item-title-3 {
@@ -390,4 +391,5 @@ col-md-5 {
   font-size: 23px;
   font-family: Comic Sans MS, Comic Sans;
   border-right: 4px solid rgba(20, 60, 40, 1);
+  border-left: 2px solid rgba(20, 60, 40, 1);
 }
