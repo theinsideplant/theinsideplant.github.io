@@ -6,19 +6,12 @@ body {
 }
 
 nav {
-  background: url(TIP-MoreIvyNavbar.png) repeat center center fixed;
+  font-family: Comic Sans MS, Comic Sans;
+  background: url(TIP-MoreIvyNavbar.png) repeat, center, center, fixed;
   height: 80px;
   display: flex;
   flex-direction: row;
-  align-items: center;
-  justify-content: space-around;
   border: 5px solid rgba(61, 38, 18, 0.85);
-  border-radius: 10px;
-  position: fixed;
-  top: 0;
-  width: 100%;
-  z-index: 1000;
-  font-family: "Comic Sans MS", Comic Sans;
 }
 
 main {
