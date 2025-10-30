@@ -6,6 +6,8 @@ body {
 }
 
 nav {
+  position: fixed;
+  top: 0;
   font-family: Comic Sans MS, Comic Sans;
   background: url(TIP-MoreIvyNavbar.png) repeat, center, center, fixed;
   height: 80px;
