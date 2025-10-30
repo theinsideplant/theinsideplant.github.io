@@ -1,5 +1,5 @@
 body {
-  background: url(IndexBackground.jpg) no-repeat, center, center, fixed;
+  background: url(index-background-10-30-25.png) no-repeat, center, center, fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -178,7 +178,7 @@ nav {
 .btn-nav {
   display: flex;
   justify-content: center;
-  margin-top: 470px
+  align-content: center;
 }
 
 html {
